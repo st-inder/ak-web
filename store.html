@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Store — KOTA Studio Templates</title>
+  <meta name="description" content="Framer templates by Kota Studio. Premium websites without the premium timeline.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="nav light">
+    <a class="brand glass" href="index.html">KOTA</a>
+    <button class="menu-btn glass" aria-expanded="false" aria-controls="menu" aria-label="Open menu"><span></span></button>
+    <button class="touch glass" data-open="contact">Get in touch</button>
+  </header>
+  <nav class="menu light" id="menu" aria-label="Primary">
+    <a href="index.html">Home</a>
+    <a href="store.html">Store</a>
+    <button class="linkish" data-open="call">Book a call</button>
+    <div class="socials">
+      <a href="https://twitter.com/madebykota" target="_blank" rel="noreferrer">X (Twitter)</a>
+      <a href="https://www.instagram.com/madeby_kota/" target="_blank" rel="noreferrer">Instagram</a>
+      <a href="https://www.threads.net/@madeby_kota" target="_blank" rel="noreferrer">Thread</a>
+      <a href="https://contra.com/madebykota" target="_blank" rel="noreferrer">Contra</a>
+    </div>
+  </nav>
+
+  <main id="main">
+    <section class="page-hero" data-nav="light">
+      <p class="eyebrow">Framer Templates</p>
+      <h1>The templates behind the studio.</h1>
+      <p>Launch a site that already looks finished. Remix it in Framer, drop in your content, and go live in days — not months.</p>
+    </section>
+
+    <section class="store-grid" data-store data-nav="light"></section>
+
+    <section class="bundle" data-nav="dark">
+      <div>
+        <div class="tag">Bundle sale</div>
+        <h2>The Template Bundle</h2>
+        <p>Get access to all of the template packs and future packs for a one-time fee. No recurring payment. You’ll save against buying each pack on its own.</p>
+        <div class="days" aria-label="Go live in days">
+          <span>0</span><span>1</span><span>2</span><span>3</span><span>4</span>
+        </div>
+      </div>
+      <div>
+        <div><span class="was">$663</span></div>
+        <div class="now">$249</div>
+        <button class="btn solid" data-open="bundle" style="margin-top:16px">Get all access</button>
+      </div>
+    </section>
+
+    <section class="benefit" data-nav="light">
+      <h2>Premium website without the premium price tag.</h2>
+      <p>Because you don’t need to spend thousands or wait months to have a website that works for your business. Go live in days — no more waiting months for a designer to finish the site.</p>
+    </section>
+
+    <section class="faq" data-nav="light">
+      <div class="faq-head">
+        <h2>Question before you decide.</h2>
+        <button class="btn solid" data-open="ask">Ask a question</button>
+      </div>
+      <div class="faq-grid" data-store-faq></div>
+    </section>
+  </main>
+
+  <footer class="footer" data-nav="dark">
+    <div class="foot-grid">
+      <div class="quiet">
+        <h3>For Inquiries:</h3>
+        <a href="mailto:hello@madebykota.com">hello@madebykota.com</a>
+        <h3 style="margin-top:22px">Prefer to talk?</h3>
+        <button class="linkish" data-open="call">Book a 30-minute call</button>
+      </div>
+      <div>
+        <h3>Index</h3>
+        <a href="index.html">Home</a>
+        <a href="store.html">Store</a>
+        <button class="linkish" data-open="contact">Contact</button>
+      </div>
+      <div>
+        <h3>Socials</h3>
+        <a href="https://twitter.com/madebykota" target="_blank" rel="noreferrer">Twitter (X)</a>
+        <a href="https://www.instagram.com/madeby_kota/" target="_blank" rel="noreferrer">Instagram</a>
+        <a href="https://www.threads.net/@madeby_kota" target="_blank" rel="noreferrer">Thread</a>
+        <a href="https://contra.com/madebykota" target="_blank" rel="noreferrer">Contra</a>
+      </div>
+    </div>
+    <h2 class="wordmark">Kota Studio</h2>
+    <div class="foot-bottom">
+      <span>Designed by LoganCee Studio</span>
+      <button class="to-top" data-top aria-label="Back to top">↑</button>
+    </div>
+  </footer>
+
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="dialog">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px">
+        <h3 id="modal-title" data-modal-title>Get in touch</h3>
+        <button class="x" type="button" aria-label="Close">×</button>
+      </div>
+      <p class="sub" data-modal-sub></p>
+      <form>
+        <div class="row2">
+          <label>Name<input name="name" required autocomplete="name"></label>
+          <label>Email<input name="email" type="email" required autocomplete="email"></label>
+        </div>
+        <label data-project-only>What do you need?
+          <select name="type" data-project-type>
+            <option>Landing Page</option>
+            <option>Marketing Site</option>
+            <option>Motion Design</option>
+            <option>Framer implementation</option>
+            <option>Template bundle</option>
+            <option>Not sure yet</option>
+          </select>
+        </label>
+        <label data-call-only hidden>A time that works<input name="when" placeholder="Tue–Thu, afternoons"></label>
+        <label>Message<textarea name="message" placeholder="What are you launching?"></textarea></label>
+        <div class="actions">
+          <span style="font-size:13px;color:#666">hello@madebykota.com</span>
+          <button class="btn dark" type="submit">Send</button>
+        </div>
+      </form>
+      <div class="success">
+        <p>Got it. Your note is ready to send.</p>
+        <p><a href="mailto:hello@madebykota.com">Open it in your email app</a></p>
+      </div>
+    </div>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+</html>
