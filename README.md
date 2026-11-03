@@ -1,12 +1,12 @@
 # AK Web Agency
 
-Static site for AK Web Agency. Four pages, no build step.
+The public site is the animated four-page AK Web Agency site.
 
 - Home: `index.html`
-- About: `about.html`
-- Insight: `article/cloud-cost-optimization/index.html`
-- Contact: `contact.html`
+- About: `about/`
+- Contact: `contact/`
+- Insight: `article/cloud-cost-optimization/`
 
-Open the folder with any static server. Shared styles live in `css/agency.css`. Shared behavior lives in `js/agency.js`.
+`about.html` and `contact.html` redirect into those folders. Shared images and the logo live in `assets/`.
 
-The `reference/bdemerson/` folder is a local HTML archive used while matching layout. It is not part of the public site.
+`reference/bdemerson/` is the local HTML archive used to match layout and motion. It is not part of the public site.
