@@ -1,305 +1,315 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>KOTA Studio — Framer Website Design & Templates</title>
-  <meta name="description" content="Kota Studio creates motion-rich, interactive websites that engage users and boost conversions.">
+  <title>AK Web Agency | Engineering, AI, cybersecurity, and assurance</title>
+  <meta name="description" content="AK Web Agency designs, builds, and hardens the systems growing companies run. Engineering, AI, cybersecurity, and assurance from one team.">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/agency.css">
 </head>
-<body class="is-loading">
-  <a class="skip" href="#main">Skip to content</a>
-
-  <div class="loader" role="status" aria-live="polite">
-    <div class="loader-side">KOTA Studio</div>
-    <div class="loader-stack" aria-hidden="true">
-      <div class="mock m-orbs"><b>We make<br>Creative Things.</b><span class="orb o1"></span><span class="orb o2"></span></div>
-      <div class="mock m-james"><b>JAMES<br>NOLAN</b></div>
-      <div class="mock m-finance"><small>Finance</small><div class="phone"><span></span><span style="width:70%"></span><span style="width:40%;background:#d5def5"></span></div></div>
-      <div class="mock m-forme"><div class="chairs"><i></i><i></i></div></div>
-    </div>
-    <div class="loader-side"><span data-pct>0</span>%</div>
+<body data-page="home">
+  <div class="topbar">Now booking 2026 engagements. <a href="contact.html">Book a working session</a></div>
+  <div class="nav-wrap">
+    <header class="nav">
+      <a class="brand" href="index.html"><span class="mark">AK</span> AK Web Agency</a>
+      <nav class="menu" data-menu>
+        <div class="drop" data-drop>
+          <button type="button" aria-expanded="false">Services</button>
+          <div class="panel">
+            <a href="#services">Cybersecurity</a>
+            <a href="#services">Technology</a>
+            <a href="#services">AI delivery</a>
+            <a href="#services">Assurance</a>
+          </div>
+        </div>
+        <div class="drop" data-drop>
+          <button type="button" aria-expanded="false">Industries</button>
+          <div class="panel">
+            <a href="#industries">Healthcare</a>
+            <a href="#industries">Financial services</a>
+            <a href="#industries">Software</a>
+            <a href="#industries">Manufacturing</a>
+          </div>
+        </div>
+        <a href="about.html" data-nav="about">About</a>
+        <a href="article/cloud-cost-optimization/index.html" data-nav="insights">Insights</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="icon-btn" type="button" data-open-search aria-label="Search">⌕</button>
+        <a class="book" href="contact.html">Book <span>a call</span></a>
+        <button class="burger" type="button" data-burger aria-label="Menu" aria-expanded="false">☰</button>
+      </div>
+    </header>
   </div>
 
-  <header class="nav dark">
-    <a class="brand glass" href="index.html">KOTA</a>
-    <button class="menu-btn glass" aria-expanded="false" aria-controls="menu" aria-label="Open menu"><span></span></button>
-    <button class="touch glass" data-open="contact">Get in touch</button>
-  </header>
-  <nav class="menu" id="menu" aria-label="Primary">
-    <a href="index.html">Home</a>
-    <a href="store.html">Store</a>
-    <button class="linkish" data-open="call">Book a call</button>
-    <div class="socials">
-      <a href="https://twitter.com/madebykota" target="_blank" rel="noreferrer">X (Twitter)</a>
-      <a href="https://www.instagram.com/madeby_kota/" target="_blank" rel="noreferrer">Instagram</a>
-      <a href="https://www.threads.net/@madeby_kota" target="_blank" rel="noreferrer">Thread</a>
-      <a href="https://contra.com/madebykota" target="_blank" rel="noreferrer">Contra</a>
-    </div>
-  </nav>
-
-  <main id="main">
-    <section class="hero" data-nav="dark">
-      <div class="wall" aria-hidden="true">
-        <article class="mock m-ovins"><b>OVINS</b><small>Digital product</small></article>
-        <article class="mock m-port"><b>CANDREVA</b><small>Portfolio</small></article>
-        <article class="mock m-green"><small>Dashboard</small><i></i><i style="width:30%"></i><i style="width:62%"></i></article>
-        <article class="mock m-blue"><b>Making every visit feel personal</b></article>
-        <article class="mock m-orbs"><b>We make Creative Things.</b><span class="orb o1"></span><span class="orb o2"></span></article>
-        <article class="mock m-finance"><b style="font-size:16px">Start managing your finance</b><div class="phone"><span></span><span style="width:70%"></span><span style="width:40%;background:#d5def5"></span></div></article>
-        <article class="mock m-yellow"><b>HE<br>AN</b></article>
-        <article class="mock m-james"><b>JAMES<br>NOLAN</b></article>
-        <article class="mock m-forme"><div class="chairs"><i></i><i></i></div></article>
-        <article class="mock m-aurea"><b>AUREA</b><small>Studio / index</small></article>
-        <article class="mock m-photo"></article>
-        <article class="mock m-kokoro"><b>KOKORO</b></article>
-      </div>
-      <div class="vignette"></div>
-      <div class="hero-copy">
-        <div class="badge"><i></i> Official Framer Expert</div>
-        <div class="headline">
-          <div class="row">
-            <span>Turning ideas</span>
-            <span>into</span>
-          </div>
-          <div class="row center">
-            <span class="thumb" aria-hidden="true"></span>
-            <span>high — impact</span>
-          </div>
-          <div class="row center">
-            <span>Framer</span>
-            <svg class="mark" viewBox="0 0 24 24" aria-hidden="true">
-              <path fill="#fff" d="M3 3h11.2L12 7.2H6.2z"/>
-              <path fill="#d5d5d5" d="M6.2 9h11.4L15.4 13.2H4z"/>
-              <path fill="#fff" d="M4 15.2h9.2L11 19.4H2.6z"/>
-            </svg>
-            <span>websites</span>
-          </div>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1>Senior delivery across engineering, AI, cybersecurity, and assurance.</h1>
+        <p>AK Web Agency designs, builds, and hardens the systems growing companies actually run. One team from architecture through handover.</p>
+        <div class="cta-row">
+          <a class="btn" href="contact.html">Book a working session</a>
+          <a class="btn ghost" href="about.html">See how we work →</a>
         </div>
-        <p class="available">Available for new projects</p>
       </div>
-      <div class="hero-foot">
+      <div class="cubes" aria-hidden="true">
+        <div class="cube">AI<span></span></div>
+        <div class="cube">TECHNOLOGY<span></span></div>
+        <div class="cube">CYBER<span></span></div>
+        <div class="cube">ASSURANCE<span></span></div>
+      </div>
+    </div>
+  </section>
+  <section class="logo-row">
+    <div class="wrap">
+      <p>Engagements across regulated and high-growth teams</p>
+      <div class="logos">
+        <span>HEALTHCARE</span>
+        <span>FINANCE</span>
+        <span>SOFTWARE</span>
+        <span>LOGISTICS</span>
+        <span>INSURANCE</span>
+        <span>ENERGY</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Four practices. One accountable team.</h2>
+      <p class="lead">Strategy stays attached to the people who implement it. Security, engineering, AI, and assurance share the same file.</p>
+      <div class="cards-2" style="margin-top:22px">
+        <article class="soft">
+          <div class="diagram">
+            <div class="chip">Identity</div>
+            <div class="chip">Detect</div>
+            <div class="chip">Recover</div>
+          </div>
+          <h3>Security and resilience</h3>
+          <p>Assessments, control design, and incident-ready runbooks written with the engineers who will live with them.</p>
+        </article>
+        <article class="soft">
+          <div class="faces" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+          <h3>Product and engineering</h3>
+          <p>Platforms, integrations, and cloud foundations scoped to the operating model, then built with a handover your team can own.</p>
+        </article>
+        <article class="soft">
+          <h3>Assurance you can show</h3>
+          <p>Evidence, control narratives, and review support prepared in house, so an audit is a package and not a scramble.</p>
+        </article>
+        <article class="soft">
+          <h3>AI with limits</h3>
+          <p>Use cases, permissions, evaluation, and cost guardrails before a model touches customer data or production systems.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div class="wrap">
+      <div class="dark-band">
+        <h2>What a serious engagement actually covers.</h2>
+        <div class="quad">
+          <article class="q">
+            <h3>Tailored security</h3>
+            <p>Threat-led reviews, identity, and monitoring mapped to how the business really operates.</p>
+          </article>
+          <article class="q">
+            <h3>Audit-ready work</h3>
+            <p>Control design and evidence collection that a reviewer can follow without a translator.</p>
+          </article>
+          <article class="q">
+            <h3>Technology that ships</h3>
+            <p>Architecture, implementation, and cost controls for the stack you intend to keep.</p>
+          </article>
+          <article class="q">
+            <h3>Governed AI</h3>
+            <p>Readiness, integration, and permission boundaries so pilots do not become shadow systems.</p>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section center">
+    <div class="wrap">
+      <h2>How we hold the work</h2>
+      <p class="lead" style="margin:0 auto 18px">Standards we design toward on every engagement. We do not borrow another firm's certificates.</p>
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
+        <span class="pill">Security reviews</span>
+        <span class="pill">Architecture records</span>
+        <span class="pill">Evidence packs</span>
+        <span class="pill">Handover notes</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="services" style="padding-top:0">
+    <div class="wrap">
+      <h2>Services</h2>
+      <p class="lead">Start with the problem. We will tell you if it is a security job, a build, an AI boundary, or an evidence problem.</p>
+      <div class="service-grid" style="margin-top:22px">
+        <a class="svc" href="contact.html">
+          <span class="kicker">CYBERSECURITY</span>
+          <h3>Security programs that operators can run</h3>
+          <p>Assessments, roadmaps, and the controls your team will actually maintain after we leave.</p>
+          <span class="go">→</span>
+        </a>
+        <a class="svc" href="contact.html">
+          <span class="kicker">ASSURANCE</span>
+          <h3>Compliance work with the evidence attached</h3>
+          <p>Gap reviews and control narratives for the frameworks your customers already ask about.</p>
+          <span class="go">→</span>
+        </a>
+        <div class="three">
+          <a class="svc" href="contact.html">
+            <span class="kicker">TECHNOLOGY</span>
+            <h3>Technology consulting</h3>
+            <p>Cloud, platforms, and the cost of running them.</p>
+            <span class="go">→</span>
+          </a>
+          <a class="svc" href="article/cloud-cost-optimization/index.html">
+            <span class="kicker">FINOPS</span>
+            <h3>Cloud cost optimization</h3>
+            <p>The spend levers that pay back before a re-platform.</p>
+            <span class="go">→</span>
+          </a>
+          <a class="svc" href="contact.html">
+            <span class="kicker">AI</span>
+            <h3>AI strategy and delivery</h3>
+            <p>Use cases, permissions, and a path that survives contact with production.</p>
+            <span class="go">→</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="industries" style="padding-top:0">
+    <div class="wrap">
+      <h2>Industries</h2>
+      <p class="lead">The constraints change. The delivery model does not: senior people, a written scope, and work your team can keep.</p>
+      <div class="industry" style="margin-top:22px">
+        <nav aria-label="Industries">
+          <button type="button" class="on" data-ind="healthcare">Healthcare</button>
+          <button type="button" data-ind="finance">Financial services</button>
+          <button type="button" data-ind="software">Software</button>
+          <button type="button" data-ind="manufacturing">Manufacturing</button>
+          <button type="button" data-ind="energy">Energy</button>
+          <button type="button" data-ind="public">Public sector</button>
+        </nav>
         <div>
-          <div>For inquiries</div>
-          <a href="mailto:hello@madebykota.com">hello@madebykota.com</a>
-        </div>
-        <p><span class="k">Kota Studio</span> creates motion-rich, interactive websites that engage users and boost conversions.</p>
-        <button class="scroll-ind" onclick="document.querySelector('.reel').scrollIntoView({behavior:'smooth'})">Scroll for more <i></i></button>
-      </div>
-    </section>
-
-    <section class="reel" data-nav="dark" aria-label="Showreel">
-      <div class="reel-frame">
-        <div class="scene" aria-hidden="true">
-          <div class="plant"></div>
-          <div class="table"></div>
-          <div class="chair c1"></div>
-          <div class="chair c2"></div>
-          <div class="cab"></div>
-        </div>
-        <div class="reel-ui">
-          <span class="time">[ 00:44 ]</span>
-          <div class="playline">
-            <span>PLAY</span>
-            <button class="play" aria-label="Play reel">▶</button>
-            <span>REEL</span>
+          <div class="ind-cards" data-panel="healthcare">
+            <article class="ind-card"><h3>Clinical systems</h3><p>Access, logging, and vendor boundaries around the tools staff use with patient information.</p></article>
+            <article class="ind-card"><h3>Operational platforms</h3><p>Scheduling, billing, and integration work that does not widen the data you already hold.</p></article>
           </div>
-          <span class="year">©2026</span>
-        </div>
-        <div class="player">
-          <div class="player-top"><span>KOTA Studio — reel</span><span>00:44</span></div>
-          <div class="bar" aria-hidden="true"><span></span></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="statement" data-nav="light" id="about">
-      <p class="about-label">About</p>
-      <p class="lead">You’ve already built something great. Whether it’s just taking shape or already scaling — it deserves a website that matches the work you’ve put in. Kota Studio has everything you need to make that happen.</p>
-    </section>
-
-    <section class="stats" data-nav="light" aria-label="Studio numbers">
-      <div class="stat-arrows">
-        <button class="icon-btn solid" data-stat-prev aria-label="Previous stat">
-          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M10 3 L5 8 L10 13"/></svg>
-        </button>
-        <button class="icon-btn solid" data-stat-next aria-label="Next stat">
-          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 3 L11 8 L6 13"/></svg>
-        </button>
-      </div>
-      <div>
-        <p class="stat-kicker" data-stat-k>Project completed</p>
-        <p class="stat-num" data-stat-num>15+</p>
-      </div>
-      <p class="stat-copy" data-stat-t>We've designed and shipped websites for founders, SaaS companies, and agencies around the world.</p>
-    </section>
-
-    <section class="services" data-nav="light" id="services">
-      <div class="services-sticky">
-        <div class="svc-left">
-          <p class="eyebrow">Our Services</p>
-          <h2 class="svc-title" data-svc-title data-i="0">Landing Page</h2>
-          <div class="svc-mid">
-            <p class="lab">Timeline</p>
-            <strong data-svc-time>1–2 weeks</strong>
-            <p class="lab">Deliverables</p>
-            <strong data-svc-deliver>1 page</strong>
-            <p class="svc-body" data-svc-body>A single Framer page built to earn its traffic. For launches, fundraises, campaigns, and paid ads. One page, conversion-led, shipped fast. Built to scale into a full site later if you need it.</p>
+          <div class="ind-cards" data-panel="finance" hidden>
+            <article class="ind-card"><h3>Control environments</h3><p>Change management, access reviews, and evidence your reviewers can sample.</p></article>
+            <article class="ind-card"><h3>Customer platforms</h3><p>Reliable releases for portals and internal tools without skipping the checks that matter.</p></article>
           </div>
-          <div class="svc-buy">
-            <div>
-              <p class="lab">Starting from</p>
-              <p class="price" data-svc-price>$4,000</p>
-            </div>
-            <button class="btn solid" data-open="project">Start a project</button>
+          <div class="ind-cards" data-panel="software" hidden>
+            <article class="ind-card"><h3>Product engineering</h3><p>Architecture, delivery, and the security questions enterprise buyers send before a contract.</p></article>
+            <article class="ind-card"><h3>Cloud spend</h3><p>Rightsizing, commitments, and ownership so the bill matches the product you ship.</p></article>
+          </div>
+          <div class="ind-cards" data-panel="manufacturing" hidden>
+            <article class="ind-card"><h3>Plant and office</h3><p>A clear line between operational networks and the business systems that report on them.</p></article>
+            <article class="ind-card"><h3>Supplier access</h3><p>Time-bound vendor entry, logging, and an offboarding path that someone owns.</p></article>
+          </div>
+          <div class="ind-cards" data-panel="energy" hidden>
+            <article class="ind-card"><h3>Critical operations</h3><p>Monitoring and recovery plans written for the systems that cannot wait on a ticket queue.</p></article>
+            <article class="ind-card"><h3>Data platforms</h3><p>Pipelines and reporting with retention and access that match the sensitivity of the feed.</p></article>
+          </div>
+          <div class="ind-cards" data-panel="public" hidden>
+            <article class="ind-card"><h3>Service delivery</h3><p>Modernization that keeps accessibility, records, and procurement constraints in the design.</p></article>
+            <article class="ind-card"><h3>Assurance packs</h3><p>Documentation a program office can file, not a slide that expires after the workshop.</p></article>
+          </div>
+          <div class="pager">
+            <button type="button" data-ind-step="-1" aria-label="Previous industry">←</button>
+            <button type="button" data-ind-step="1" aria-label="Next industry">→</button>
           </div>
         </div>
-        <div class="svc-stage s0">
-          <div class="float-wall" aria-hidden="true">
-            <article class="mock m-finance"></article>
-            <article class="mock m-forme"><div class="chairs"><i></i><i></i></div></article>
-            <article class="mock m-orbs"><span class="orb o1"></span></article>
-            <article class="mock m-aurea"><b>AUREA</b></article>
-            <article class="mock m-james"><b>JAMES</b></article>
-            <article class="mock m-blue"></article>
-            <article class="mock m-green"><i></i><i></i></article>
-            <article class="mock m-photo"></article>
-            <article class="mock m-port"><b>Work</b></article>
-            <article class="mock m-yellow"></article>
-          </div>
-          <ul class="svc-names">
-            <li><button type="button" data-index="0" class="active">Landing Page</button></li>
-            <li><button type="button" data-index="1">Marketing Site</button></li>
-            <li><button type="button" data-index="2">Motion Design</button></li>
-          </ul>
-        </div>
-      </div>
-    </section>
-
-    <section class="quotes" data-nav="light" aria-label="Testimonials">
-      <div class="q-label">Testimonial</div>
-      <div data-quotes></div>
-      <div class="authors" data-authors></div>
-    </section>
-
-    <section class="templates" data-nav="dark" data-template-stage>
-      <div class="tpl-label">Featured Templates</div>
-      <div class="tpl-stage">
-        <div class="laptop">
-          <div class="screen" data-screen></div>
-          <div class="deck"></div>
-        </div>
-        <div class="lens" data-lens></div>
-        <div class="ring">
-          <button type="button" class="on">1</button>
-          <button type="button">2</button>
-          <button type="button">3</button>
-          <button type="button">4</button>
-          <button type="button">5</button>
-        </div>
-      </div>
-      <div class="tpl-meta">
-        <h2 data-tpl-name>Orionix</h2>
-        <p data-tpl-cat>Agency / $99</p>
-      </div>
-      <a class="btn dark view-all" href="store.html">View all templates</a>
-    </section>
-
-    <section class="faq" data-nav="light" id="faq">
-      <div class="faq-head">
-        <h2>Question before you decide.</h2>
-        <button class="btn solid" data-open="ask">Ask a question</button>
-      </div>
-      <div class="faq-grid" data-faq></div>
-    </section>
-
-    <section class="cta" data-nav="dark">
-      <div class="wall" aria-hidden="true">
-        <article class="mock m-orbs"><span class="orb o1"></span><span class="orb o2"></span></article>
-        <article class="mock m-james"></article>
-        <article class="mock m-blue"></article>
-        <article class="mock m-forme"><div class="chairs"><i></i><i></i></div></article>
-        <article class="mock m-green"><i></i></article>
-        <article class="mock m-yellow"></article>
-        <article class="mock m-finance"></article>
-        <article class="mock m-photo"></article>
-      </div>
-      <div class="vignette"></div>
-      <div class="cta-inner">
-        <h2>Let’s get started!</h2>
-        <button class="btn solid" data-open="project">Start a project</button>
-      </div>
-    </section>
-  </main>
-
-  <footer class="footer" data-nav="dark">
-    <div class="foot-grid">
-      <div class="quiet">
-        <h3>For Inquiries:</h3>
-        <a href="mailto:hello@madebykota.com">hello@madebykota.com</a>
-        <h3 style="margin-top:22px">Prefer to talk?</h3>
-        <button class="linkish" data-open="call">Book a 30-minute call</button>
-      </div>
-      <div>
-        <h3>Index</h3>
-        <a href="index.html">Home</a>
-        <a href="store.html">Store</a>
-        <button class="linkish" data-open="contact">Contact</button>
-      </div>
-      <div>
-        <h3>Socials</h3>
-        <a href="https://twitter.com/madebykota" target="_blank" rel="noreferrer">Twitter (X)</a>
-        <a href="https://www.instagram.com/madeby_kota/" target="_blank" rel="noreferrer">Instagram</a>
-        <a href="https://www.threads.net/@madeby_kota" target="_blank" rel="noreferrer">Thread</a>
-        <a href="https://contra.com/madebykota" target="_blank" rel="noreferrer">Contra</a>
       </div>
     </div>
-    <h2 class="wordmark">Kota Studio</h2>
-    <div class="foot-bottom">
-      <span>Designed by LoganCee Studio</span>
-      <button class="to-top" data-top aria-label="Back to top">↑</button>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div class="wrap">
+      <h2>What the work is for</h2>
+      <div class="quotes" style="margin-top:18px">
+        <article class="quote">A cloud bill with named owners and a first round of waste removed.<strong>Platform engagement</strong><span>Software company</span></article>
+        <article class="quote">A control narrative and evidence index a reviewer could sample without a war room.<strong>Assurance engagement</strong><span>Financial services team</span></article>
+        <article class="quote">An AI pilot with permission limits, an evaluation set, and a decision to keep or stop.<strong>AI engagement</strong><span>Operations team</span></article>
+      </div>
     </div>
+  </section>
+
+  <section class="section" style="padding-top:0">
+    <div class="wrap">
+      <h2>Insights</h2>
+      <div class="posts" style="margin-top:18px">
+        <a class="post" href="article/cloud-cost-optimization/index.html"><em>Technology</em><h3>Cloud cost optimization: the levers that pay back first</h3></a>
+        <a class="post" href="about.html"><em>How we work</em><h3>What a senior engagement looks like from the first call</h3></a>
+        <a class="post" href="contact.html"><em>Start</em><h3>What to send before a working session</h3></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="contact" style="padding-top:0">
+    <div class="wrap contact-band">
+      <div>
+        <h2>Tell us where you're headed.</h2>
+        <p class="lead">We'll reply from info@akwebagency.com with a time and the questions we need answered first.</p>
+      </div>
+      <form data-quote>
+        <div class="row">
+          <label>Name <input name="name" required autocomplete="name"></label>
+          <label>Company <input name="company" required autocomplete="organization"></label>
+        </div>
+        <div class="row">
+          <label>Work email <input name="email" type="email" required autocomplete="email"></label>
+          <label>Phone <input name="phone" type="tel" autocomplete="tel"></label>
+        </div>
+        <label>What do you need? <textarea name="message" required></textarea></label>
+        <button class="btn" type="submit">Request a quote</button>
+        <p class="note" data-note>Thanks. Send the same note to info@akwebagency.com so it reaches the team. This page does not transmit the form on its own.</p>
+      </form>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="wrap foot">
+      <div>
+        <a class="brand" href="index.html"><span class="mark">AK</span> AK Web Agency</a>
+        <p>Engineering, AI, cybersecurity, and assurance for teams that need the work finished.</p>
+        <div class="chips"><span>info@akwebagency.com</span><span>Remote-first, on site when the work needs it</span></div>
+      </div>
+      <div>
+        <h3>Company</h3>
+        <a href="about.html">About</a>
+        <a href="article/cloud-cost-optimization/index.html">Insights</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div>
+        <h3>Practices</h3>
+        <a href="#services">Cybersecurity</a>
+        <a href="#services">Technology</a>
+        <a href="#services">AI</a>
+        <a href="#services">Assurance</a>
+      </div>
+    </div>
+    <div class="wrap legal"><span>© 2026 AK Web Agency</span><span>info@akwebagency.com</span></div>
   </footer>
 
-  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
-    <div class="dialog">
-      <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px">
-        <h3 id="modal-title" data-modal-title>Get in touch</h3>
-        <button class="x" type="button" aria-label="Close">×</button>
-      </div>
-      <p class="sub" data-modal-sub></p>
-      <form>
-        <div class="row2">
-          <label>Name<input name="name" required autocomplete="name"></label>
-          <label>Email<input name="email" type="email" required autocomplete="email"></label>
-        </div>
-        <label data-project-only>What do you need?
-          <select name="type" data-project-type>
-            <option>Landing Page</option>
-            <option>Marketing Site</option>
-            <option>Motion Design</option>
-            <option>Framer implementation</option>
-            <option>Template bundle</option>
-            <option>Not sure yet</option>
-          </select>
-        </label>
-        <label data-call-only hidden>A time that works<input name="when" placeholder="Tue–Thu, afternoons"></label>
-        <label>Message<textarea name="message" placeholder="What are you launching?"></textarea></label>
-        <div class="actions">
-          <span class="quiet" style="font-size:13px;color:#666">hello@madebykota.com</span>
-          <button class="btn dark" type="submit">Send</button>
-        </div>
-      </form>
-      <div class="success">
-        <p>Got it. Your note is ready to send.</p>
-        <p><a href="mailto:hello@madebykota.com">Open it in your email app</a></p>
-      </div>
-    </div>
+  <div class="search" data-search>
+    <form role="search">
+      <label>Search <input type="search" placeholder="Search pages"></label>
+      <div class="results" data-results></div>
+    </form>
   </div>
-  <script src="js/main.js"></script>
+  <script src="js/agency.js?v=2"></script>
 </body>
 </html>

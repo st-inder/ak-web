@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cloud Cost Optimization: The Levers That Pay Back First | AK Web Agency</title>
+  <meta name="description" content="A practical order for cloud cost work: idle resources, rightsizing, commitments, spot capacity, storage, transfer, and the team that owns the bill.">
+  <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../css/agency.css">
+</head>
+<body data-page="insights" data-root="../../">
+  <div class="topbar">Now booking 2026 engagements. <a href="../../contact.html">Book a working session</a></div>
+  <div class="nav-wrap">
+    <header class="nav">
+      <a class="brand" href="../../index.html"><span class="mark">AK</span> AK Web Agency</a>
+      <nav class="menu" data-menu>
+        <div class="drop" data-drop>
+          <button type="button" aria-expanded="false">Services</button>
+          <div class="panel">
+            <a href="../../index.html#services">Cybersecurity</a>
+            <a href="../../index.html#services">Technology</a>
+            <a href="../../index.html#services">AI delivery</a>
+            <a href="../../index.html#services">Assurance</a>
+          </div>
+        </div>
+        <div class="drop" data-drop>
+          <button type="button" aria-expanded="false">Industries</button>
+          <div class="panel">
+            <a href="../../index.html#industries">Healthcare</a>
+            <a href="../../index.html#industries">Financial services</a>
+            <a href="../../index.html#industries">Software</a>
+            <a href="../../index.html#industries">Manufacturing</a>
+          </div>
+        </div>
+        <a href="../../about.html" data-nav="about">About</a>
+        <a href="index.html" data-nav="insights">Insights</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="icon-btn" type="button" data-open-search aria-label="Search">⌕</button>
+        <a class="book" href="../../contact.html">Book <span>a call</span></a>
+        <button class="burger" type="button" data-burger aria-label="Menu" aria-expanded="false">☰</button>
+      </div>
+    </header>
+  </div>
+
+  <article class="section article wrap">
+    <aside class="toc" data-toc>
+      <strong>On this page</strong>
+      <a href="#levers">Fastest levers</a>
+      <a href="#finops">Who owns the bill</a>
+      <a href="#idle">Idle and rightsizing</a>
+      <a href="#commitments">Commitment discounts</a>
+      <a href="#spot">Spot capacity</a>
+      <a href="#storage">Storage and transfer</a>
+      <a href="#allocate">Allocate to teams</a>
+      <a href="#gpu">AI and GPU spend</a>
+      <a href="#security">Cost and security</a>
+      <a href="#engagement">How we run it</a>
+      <a href="#faq">FAQ</a>
+    </aside>
+    <div class="prose">
+      <p class="kicker">TECHNOLOGY</p>
+      <h1>Cloud Cost Optimization: The Levers That Pay Back First</h1>
+      <p class="meta">AK Web Agency · Technology · A field guide for the first pass at a cloud bill</p>
+      <p>Most cloud bills are not high because the architecture is wrong. They are high because unused capacity, oversized machines, storage that never cools, and data that leaves the region are still being paid for at on-demand rates. The first pass should chase those leaks before anyone proposes a new platform.</p>
+
+      <h2 id="levers">Which cloud cost levers pay back fastest?</h2>
+      <p>Rank work by how fast it returns cash and how little product risk it adds. Idle resources and obvious waste come first. Commitments come after you trust the baseline. Spot and architectural change come last, because they can move reliability, not just price.</p>
+      <table>
+        <thead>
+          <tr><th>Lever</th><th>Typical speed</th><th>Risk to the product</th><th>Start here when</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Idle resources</td><td>Days</td><td>Low, if owners confirm</td><td>Unattached disks, forgotten environments, and stopped-but-billed services show up in the inventory.</td></tr>
+          <tr><td>Rightsizing</td><td>One to three weeks</td><td>Low to moderate</td><td>CPU, memory, or database utilization stays well under the size you pay for.</td></tr>
+          <tr><td>Savings plans and commitments</td><td>After a stable baseline</td><td>Financial, if usage drops</td><td>The always-on footprint has been steady for a quarter.</td></tr>
+          <tr><td>Spot and preemptible capacity</td><td>Weeks, plus engineering</td><td>Moderate</td><td>Workloads already tolerate interruption, or a queue can retry.</td></tr>
+          <tr><td>Storage tiering</td><td>Days to weeks</td><td>Low</td><td>Objects and backups are kept hot with no retrieval requirement.</td></tr>
+          <tr><td>Data egress</td><td>Depends on design</td><td>Can be high</td><td>Cross-region copies or chatty integrations dominate the transfer line.</td></tr>
+        </tbody>
+      </table>
+
+      <h2 id="finops">What is FinOps, and who owns cloud costs?</h2>
+      <p>FinOps is the operating habit of seeing cloud spend, assigning it to a team, and deciding what to do before the invoice is a surprise. Finance should not own the architecture. Engineering should not discover the bill only in a quarterly review. A workable split looks like this:</p>
+      <table>
+        <thead>
+          <tr><th>Role</th><th>Owns</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Engineering</td><td>Resource choices, schedules, and the changes that remove waste.</td></tr>
+          <tr><td>Product or platform</td><td>Which environments exist, and which workloads are allowed to grow.</td></tr>
+          <tr><td>Finance</td><td>The forecast, the commitment envelope, and the monthly readout.</td></tr>
+          <tr><td>Security</td><td>Anything that would cut cost by weakening logging, backup, or isolation.</td></tr>
+        </tbody>
+      </table>
+      <p>If a resource has no owner tag, it has no one to turn it off. Tagging is the first control, not a documentation project for later.</p>
+
+      <h2 id="idle">How do you cut idle resources and rightsize workloads?</h2>
+      <p>Pull a single inventory: compute, databases, disks, addresses, load balancers, and snapshots. Mark anything unattached, anything idle through a full business cycle, and anything in an environment nobody will defend. Ask the owner once, with a shutdown date, and record the answer.</p>
+      <p>Rightsizing uses the same inventory plus utilization. A machine that sits under a small share of CPU and memory across the peak week is a candidate to step down one size, not a candidate for a rewrite. Databases need more care: check connections, storage growth, and failover before you shrink them. Do non-production first so the method is trusted before it touches customers.</p>
+
+      <h2 id="commitments">How do AWS, Azure, and Google Cloud commitment discounts compare?</h2>
+      <p>All three will trade a discount for a promise to keep using a baseline. The names differ. The mistake is the same: committing to last month's waste.</p>
+      <table>
+        <thead>
+          <tr><th></th><th>AWS</th><th>Azure</th><th>Google Cloud</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Flexible coverage</td><td>Savings Plans across a family of compute</td><td>Savings plans for compute</td><td>Committed use discounts, with some flexibility by machine family</td></tr>
+          <tr><td>Specific capacity</td><td>Reserved Instances for a defined size and region</td><td>Reservations for a defined resource</td><td>Resource-based commitments</td></tr>
+          <tr><td>When it fits</td><td>Steady compute after idle waste is gone</td><td>Same, especially for always-on app and data services</td><td>Same, once autoscaling floors are understood</td></tr>
+          <tr><td>Watch-out</td><td>A plan that covers spend you meant to delete</td><td>A reservation in the wrong region or size</td><td>A commitment longer than the product's horizon</td></tr>
+        </tbody>
+      </table>
+      <p>Cover the floor, not the peak. Peaks belong on on-demand or on interruptible capacity. Revisit the commitment when a product shuts down or a region changes, not on the renewal date alone.</p>
+
+      <h2 id="spot">When should you use spot capacity?</h2>
+      <p>Spot, preemptible, and similar spare capacity is cheap because the provider can take it back. Use it for batch jobs, CI fleets, stateless workers, and anything that already retries. Keep a small on-demand floor for work that has a customer waiting. Do not put a single-node database, a license server, or the only copy of a queue consumer on capacity that can vanish mid-task.</p>
+
+      <h2 id="storage">How do storage tiering and data transfer change the bill?</h2>
+      <p>Hot storage is for data you read. Backups, exports, and old objects usually are not. Lifecycle rules that move untouched data to cooler tiers, and snapshots you expire on a schedule, often beat a storage migration project.</p>
+      <p>Transfer fees show up when data crosses a region, leaves to the internet, or bounces through a chatty integration. Fix the path before you buy a bigger pipe: keep chatty services together, cache what you can, and stop copying full datasets "just in case" to a second region that nobody fails over to.</p>
+
+      <h2 id="allocate">How do you allocate cloud costs to teams?</h2>
+      <p>Allocation is a map from the invoice back to the team that can change the resource. Start with three tags that already mean something in your company: team, environment, and product. Shared platforms, such as logging and the network, get a rule: split by usage where you can measure it, and by a written percentage where you cannot. Publish the map monthly. A team that never sees its share will not turn anything off.</p>
+
+      <h2 id="gpu">How do you control AI and GPU spend?</h2>
+      <p>GPU and model bills spike because a job was left running, a larger model was used for a task a smaller one could finish, or a training run had no stop condition. Require an owner, a budget cap, and a schedule. Separate experimentation accounts from production. Log token and GPU hours next to the feature they serve, so a demo cannot hide inside the platform line.</p>
+
+      <h2 id="security">Where do cost controls and security collide?</h2>
+      <p>The expensive lines people try to cut first are often the ones that exist for recovery and detection: log retention, backups, multi-zone databases, and private networking. Price them honestly, then decide. Shorten what you can defend. Do not delete a trail because the line item looked optional in a spreadsheet. A cheaper system you cannot investigate is not a saving.</p>
+
+      <h2 id="engagement">How AK Web Agency runs cloud cost work</h2>
+      <p>A typical first engagement is an inventory, an owner map, and a short list of changes ranked by cash and risk. We implement the safe cuts with your engineers, write the commitment recommendation only after the baseline is real, and leave a monthly readout someone on your team can keep. If the bill is high because the architecture is the wrong shape, we say that after the waste is visible, not before.</p>
+      <p><a class="btn" href="../../contact.html">Talk through your cloud bill</a></p>
+
+      <h2 id="faq">Frequently asked questions</h2>
+      <div class="faq">
+        <details>
+          <summary>Do we need a FinOps tool before we start?</summary>
+          <p>No. The provider's billing export and a tagged inventory are enough for the first pass. A tool helps once more than one team is acting on the same numbers.</p>
+        </details>
+        <details>
+          <summary>How fast should the first savings show up?</summary>
+          <p>Idle resources and lifecycle rules can land in the next invoice. Rightsizing follows the next change window. Commitments should wait until that cleaner baseline has held.</p>
+        </details>
+        <details>
+          <summary>Will this disrupt production?</summary>
+          <p>Not if shutdowns are confirmed and rightsizing starts outside production. Anything that can interrupt a customer path is scheduled, reversible, and owned.</p>
+        </details>
+        <details>
+          <summary>Can you work across more than one cloud?</summary>
+          <p>Yes. The order of operations stays the same. The commitment products and the billing exports do not.</p>
+        </details>
+      </div>
+    </div>
+  </article>
+
+  <footer class="footer">
+    <div class="wrap foot">
+      <div>
+        <a class="brand" href="../../index.html"><span class="mark">AK</span> AK Web Agency</a>
+        <p>Engineering, AI, cybersecurity, and assurance for teams that need the work finished.</p>
+        <div class="chips"><span>info@akwebagency.com</span><span>Remote-first, on site when the work needs it</span></div>
+      </div>
+      <div>
+        <h3>Company</h3>
+        <a href="../../about.html">About</a>
+        <a href="index.html">Insights</a>
+        <a href="../../contact.html">Contact</a>
+      </div>
+      <div>
+        <h3>Practices</h3>
+        <a href="../../index.html#services">Cybersecurity</a>
+        <a href="../../index.html#services">Technology</a>
+        <a href="../../index.html#services">AI</a>
+        <a href="../../index.html#services">Assurance</a>
+      </div>
+    </div>
+    <div class="wrap legal"><span>© 2026 AK Web Agency</span><span>info@akwebagency.com</span></div>
+  </footer>
+
+  <div class="search" data-search>
+    <form role="search">
+      <label>Search <input type="search" placeholder="Search pages"></label>
+      <div class="results" data-results></div>
+    </form>
+  </div>
+  <script src="../../js/agency.js?v=2"></script>
+</body>
+</html>

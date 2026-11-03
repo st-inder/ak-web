@@ -1,13 +1,12 @@
-# Kota Studio site
+# AK Web Agency
 
-Front-end recreation of the public [Kota Studio](https://madebykota.com/) marketing site: loader, hero, showreel, services, testimonials, template slider, FAQ, store, and inquiry forms.
+Static site for AK Web Agency. Four pages, no build step.
 
-Artwork is drawn in CSS. This is not the official studio site and it does not take payment. Sending a form opens a mailto to hello@madebykota.com.
+- Home: `index.html`
+- About: `about.html`
+- Insight: `article/cloud-cost-optimization/index.html`
+- Contact: `contact.html`
 
-## Run
+Open the folder with any static server. Shared styles live in `css/agency.css`. Shared behavior lives in `js/agency.js`.
 
-```bash
-python3 -m http.server 4173
-```
-
-Open http://localhost:4173
+The `reference/bdemerson/` folder is a local HTML archive used while matching layout. It is not part of the public site.
