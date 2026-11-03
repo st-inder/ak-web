@@ -1,0 +1,3535 @@
+{
+  "source": "https://www.bdemerson.com/sitemap.xml",
+  "saved": 588,
+  "failed": [],
+  "pages": [
+    {
+      "url": "https://www.bdemerson.com",
+      "file": "index.html",
+      "status": 200,
+      "bytes": 396723
+    },
+    {
+      "url": "https://www.bdemerson.com/about",
+      "file": "about/index.html",
+      "status": 200,
+      "bytes": 325036
+    },
+    {
+      "url": "https://www.bdemerson.com/article/363-sale",
+      "file": "article/363-sale/index.html",
+      "status": 200,
+      "bytes": 321643
+    },
+    {
+      "url": "https://www.bdemerson.com/article/a-bd-emerson-series-what-is-hipaa-part-1",
+      "file": "article/a-bd-emerson-series-what-is-hipaa-part-1/index.html",
+      "status": 200,
+      "bytes": 305002
+    },
+    {
+      "url": "https://www.bdemerson.com/article/a-bd-emerson-series-what-is-hipaa-part-2",
+      "file": "article/a-bd-emerson-series-what-is-hipaa-part-2/index.html",
+      "status": 200,
+      "bytes": 309693
+    },
+    {
+      "url": "https://www.bdemerson.com/article/achieving-hipaa-compliance-a-strategic-guide-for-saas-companies",
+      "file": "article/achieving-hipaa-compliance-a-strategic-guide-for-saas-companies/index.html",
+      "status": 200,
+      "bytes": 318237
+    },
+    {
+      "url": "https://www.bdemerson.com/article/achieving-soc-2-and-iso-27001",
+      "file": "article/achieving-soc-2-and-iso-27001/index.html",
+      "status": 200,
+      "bytes": 319476
+    },
+    {
+      "url": "https://www.bdemerson.com/article/active-directory-security-attack-paths",
+      "file": "article/active-directory-security-attack-paths/index.html",
+      "status": 200,
+      "bytes": 303430
+    },
+    {
+      "url": "https://www.bdemerson.com/article/agentic-ai-in-cybersecurity",
+      "file": "article/agentic-ai-in-cybersecurity/index.html",
+      "status": 200,
+      "bytes": 324117
+    },
+    {
+      "url": "https://www.bdemerson.com/article/agentic-ai-in-insurance",
+      "file": "article/agentic-ai-in-insurance/index.html",
+      "status": 200,
+      "bytes": 320278
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-agent-permissions",
+      "file": "article/ai-agent-permissions/index.html",
+      "status": 200,
+      "bytes": 326577
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-compliance-guide",
+      "file": "article/ai-compliance-guide/index.html",
+      "status": 200,
+      "bytes": 322453
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-consulting-firms-financial-services",
+      "file": "article/ai-consulting-firms-financial-services/index.html",
+      "status": 200,
+      "bytes": 308433
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-due-diligence",
+      "file": "article/ai-due-diligence/index.html",
+      "status": 200,
+      "bytes": 306769
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-in-offensive-security",
+      "file": "article/ai-in-offensive-security/index.html",
+      "status": 200,
+      "bytes": 303481
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-in-revenue-cycle-management",
+      "file": "article/ai-in-revenue-cycle-management/index.html",
+      "status": 200,
+      "bytes": 322788
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-readiness-assessment",
+      "file": "article/ai-readiness-assessment/index.html",
+      "status": 200,
+      "bytes": 302347
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-readiness-checklist",
+      "file": "article/ai-readiness-checklist/index.html",
+      "status": 200,
+      "bytes": 306022
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-red-teaming",
+      "file": "article/ai-red-teaming/index.html",
+      "status": 200,
+      "bytes": 317767
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-regulations-around-the-world",
+      "file": "article/ai-regulations-around-the-world/index.html",
+      "status": 200,
+      "bytes": 389667
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ai-roi",
+      "file": "article/ai-roi/index.html",
+      "status": 200,
+      "bytes": 307874
+    },
+    {
+      "url": "https://www.bdemerson.com/article/analysis-of-indiana-montana-and-tennessees",
+      "file": "article/analysis-of-indiana-montana-and-tennessees/index.html",
+      "status": 200,
+      "bytes": 309025
+    },
+    {
+      "url": "https://www.bdemerson.com/article/asset-sale-vs-stock-sale",
+      "file": "article/asset-sale-vs-stock-sale/index.html",
+      "status": 200,
+      "bytes": 325597
+    },
+    {
+      "url": "https://www.bdemerson.com/article/auditboard-cost",
+      "file": "article/auditboard-cost/index.html",
+      "status": 200,
+      "bytes": 305358
+    },
+    {
+      "url": "https://www.bdemerson.com/article/auditboard-vs-workiva",
+      "file": "article/auditboard-vs-workiva/index.html",
+      "status": 200,
+      "bytes": 306212
+    },
+    {
+      "url": "https://www.bdemerson.com/article/autharva-service-discount",
+      "file": "article/autharva-service-discount/index.html",
+      "status": 200,
+      "bytes": 299698
+    },
+    {
+      "url": "https://www.bdemerson.com/article/autharva-transforming-identity-governance-with-ai",
+      "file": "article/autharva-transforming-identity-governance-with-ai/index.html",
+      "status": 200,
+      "bytes": 301709
+    },
+    {
+      "url": "https://www.bdemerson.com/article/bd-emerson-and-cyberupgrade-team-up",
+      "file": "article/bd-emerson-and-cyberupgrade-team-up/index.html",
+      "status": 200,
+      "bytes": 302339
+    },
+    {
+      "url": "https://www.bdemerson.com/article/bd-emerson-and-opsbook",
+      "file": "article/bd-emerson-and-opsbook/index.html",
+      "status": 200,
+      "bytes": 301798
+    },
+    {
+      "url": "https://www.bdemerson.com/article/bd-emerson-at-inbound-24",
+      "file": "article/bd-emerson-at-inbound-24/index.html",
+      "status": 200,
+      "bytes": 297441
+    },
+    {
+      "url": "https://www.bdemerson.com/article/benefits-of-it-consulting",
+      "file": "article/benefits-of-it-consulting/index.html",
+      "status": 200,
+      "bytes": 308134
+    },
+    {
+      "url": "https://www.bdemerson.com/article/best-ai-consulting-firms",
+      "file": "article/best-ai-consulting-firms/index.html",
+      "status": 200,
+      "bytes": 306031
+    },
+    {
+      "url": "https://www.bdemerson.com/article/best-change-management-consulting-firms",
+      "file": "article/best-change-management-consulting-firms/index.html",
+      "status": 200,
+      "bytes": 305130
+    },
+    {
+      "url": "https://www.bdemerson.com/article/best-custom-software-development-companies",
+      "file": "article/best-custom-software-development-companies/index.html",
+      "status": 200,
+      "bytes": 328165
+    },
+    {
+      "url": "https://www.bdemerson.com/article/best-m-a-advisory-firms",
+      "file": "article/best-m-a-advisory-firms/index.html",
+      "status": 200,
+      "bytes": 305748
+    },
+    {
+      "url": "https://www.bdemerson.com/article/best-penetration-testing-companies",
+      "file": "article/best-penetration-testing-companies/index.html",
+      "status": 200,
+      "bytes": 305841
+    },
+    {
+      "url": "https://www.bdemerson.com/article/best-soc-2-auditors",
+      "file": "article/best-soc-2-auditors/index.html",
+      "status": 200,
+      "bytes": 305966
+    },
+    {
+      "url": "https://www.bdemerson.com/article/best-technical-due-diligence-firms",
+      "file": "article/best-technical-due-diligence-firms/index.html",
+      "status": 200,
+      "bytes": 308030
+    },
+    {
+      "url": "https://www.bdemerson.com/article/beyond-the-it-department-why-every-business-needs-a-vciso",
+      "file": "article/beyond-the-it-department-why-every-business-needs-a-vciso/index.html",
+      "status": 200,
+      "bytes": 309592
+    },
+    {
+      "url": "https://www.bdemerson.com/article/black-box-vs-white-box-penetration-testing",
+      "file": "article/black-box-vs-white-box-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 326530
+    },
+    {
+      "url": "https://www.bdemerson.com/article/broken-access-control-idor-bola",
+      "file": "article/broken-access-control-idor-bola/index.html",
+      "status": 200,
+      "bytes": 302930
+    },
+    {
+      "url": "https://www.bdemerson.com/article/building-a-trust-center-with-bd-emerson-and-vanta",
+      "file": "article/building-a-trust-center-with-bd-emerson-and-vanta/index.html",
+      "status": 200,
+      "bytes": 304847
+    },
+    {
+      "url": "https://www.bdemerson.com/article/business-continuity-vs-disaster-recovery",
+      "file": "article/business-continuity-vs-disaster-recovery/index.html",
+      "status": 200,
+      "bytes": 325706
+    },
+    {
+      "url": "https://www.bdemerson.com/article/business-impact-analysis",
+      "file": "article/business-impact-analysis/index.html",
+      "status": 200,
+      "bytes": 325367
+    },
+    {
+      "url": "https://www.bdemerson.com/article/business-it-alignment-guide",
+      "file": "article/business-it-alignment-guide/index.html",
+      "status": 200,
+      "bytes": 306934
+    },
+    {
+      "url": "https://www.bdemerson.com/article/business-process-automation-guide",
+      "file": "article/business-process-automation-guide/index.html",
+      "status": 200,
+      "bytes": 323090
+    },
+    {
+      "url": "https://www.bdemerson.com/article/buy-side-ma-process",
+      "file": "article/buy-side-ma-process/index.html",
+      "status": 200,
+      "bytes": 305724
+    },
+    {
+      "url": "https://www.bdemerson.com/article/buy-side-vs-sell-side-ma",
+      "file": "article/buy-side-vs-sell-side-ma/index.html",
+      "status": 200,
+      "bytes": 303327
+    },
+    {
+      "url": "https://www.bdemerson.com/article/california-federal-court-to-decide",
+      "file": "article/california-federal-court-to-decide/index.html",
+      "status": 200,
+      "bytes": 306669
+    },
+    {
+      "url": "https://www.bdemerson.com/article/capital-raise",
+      "file": "article/capital-raise/index.html",
+      "status": 200,
+      "bytes": 306025
+    },
+    {
+      "url": "https://www.bdemerson.com/article/carve-out-financial-statements-guide",
+      "file": "article/carve-out-financial-statements-guide/index.html",
+      "status": 200,
+      "bytes": 321424
+    },
+    {
+      "url": "https://www.bdemerson.com/article/change-management-plan-template",
+      "file": "article/change-management-plan-template/index.html",
+      "status": 200,
+      "bytes": 303159
+    },
+    {
+      "url": "https://www.bdemerson.com/article/chick-fil-a-data-breach-owasp-asvs-appsec-culture",
+      "file": "article/chick-fil-a-data-breach-owasp-asvs-appsec-culture/index.html",
+      "status": 200,
+      "bytes": 310957
+    },
+    {
+      "url": "https://www.bdemerson.com/article/clean-team-agreement",
+      "file": "article/clean-team-agreement/index.html",
+      "status": 200,
+      "bytes": 321427
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cloud-cost-optimization",
+      "file": "article/cloud-cost-optimization/index.html",
+      "status": 200,
+      "bytes": 322860
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-certification-cost",
+      "file": "article/cmmc-certification-cost/index.html",
+      "status": 200,
+      "bytes": 307423
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-compliance-checklist",
+      "file": "article/cmmc-compliance-checklist/index.html",
+      "status": 200,
+      "bytes": 307030
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-compliance-deadlines-are-coming-how-to-get-certified",
+      "file": "article/cmmc-compliance-deadlines-are-coming-how-to-get-certified/index.html",
+      "status": 200,
+      "bytes": 304869
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-compliance-software",
+      "file": "article/cmmc-compliance-software/index.html",
+      "status": 200,
+      "bytes": 305967
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-enclave",
+      "file": "article/cmmc-enclave/index.html",
+      "status": 200,
+      "bytes": 306021
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-level-1-requirements",
+      "file": "article/cmmc-level-1-requirements/index.html",
+      "status": 200,
+      "bytes": 306085
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-level-2-requirements",
+      "file": "article/cmmc-level-2-requirements/index.html",
+      "status": 200,
+      "bytes": 306391
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cmmc-phase-2-suspension",
+      "file": "article/cmmc-phase-2-suspension/index.html",
+      "status": 200,
+      "bytes": 305924
+    },
+    {
+      "url": "https://www.bdemerson.com/article/colorado-privacy-act-cpa-an-update",
+      "file": "article/colorado-privacy-act-cpa-an-update/index.html",
+      "status": 200,
+      "bytes": 301173
+    },
+    {
+      "url": "https://www.bdemerson.com/article/commercial-due-diligence-checklist",
+      "file": "article/commercial-due-diligence-checklist/index.html",
+      "status": 200,
+      "bytes": 306200
+    },
+    {
+      "url": "https://www.bdemerson.com/article/complete-cybercrime-statistics",
+      "file": "article/complete-cybercrime-statistics/index.html",
+      "status": 200,
+      "bytes": 350367
+    },
+    {
+      "url": "https://www.bdemerson.com/article/confidential-information-memorandum",
+      "file": "article/confidential-information-memorandum/index.html",
+      "status": 200,
+      "bytes": 323678
+    },
+    {
+      "url": "https://www.bdemerson.com/article/continuous-vs-annual-penetration-testing",
+      "file": "article/continuous-vs-annual-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 303183
+    },
+    {
+      "url": "https://www.bdemerson.com/article/corporate-divestiture-process",
+      "file": "article/corporate-divestiture-process/index.html",
+      "status": 200,
+      "bytes": 312667
+    },
+    {
+      "url": "https://www.bdemerson.com/article/custom-ai-development",
+      "file": "article/custom-ai-development/index.html",
+      "status": 200,
+      "bytes": 326243
+    },
+    {
+      "url": "https://www.bdemerson.com/article/custom-software-development-cost",
+      "file": "article/custom-software-development-cost/index.html",
+      "status": 200,
+      "bytes": 325956
+    },
+    {
+      "url": "https://www.bdemerson.com/article/custom-software-vs-off-the-shelf",
+      "file": "article/custom-software-vs-off-the-shelf/index.html",
+      "status": 200,
+      "bytes": 306270
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cve-2025-55182-react2shell-what-you-need-to-know",
+      "file": "article/cve-2025-55182-react2shell-what-you-need-to-know/index.html",
+      "status": 200,
+      "bytes": 303115
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cyber-forensics",
+      "file": "article/cyber-forensics/index.html",
+      "status": 200,
+      "bytes": 323764
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cyber-kill-chain",
+      "file": "article/cyber-kill-chain/index.html",
+      "status": 200,
+      "bytes": 324918
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cyber-resilience-act",
+      "file": "article/cyber-resilience-act/index.html",
+      "status": 200,
+      "bytes": 324996
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cyber-resilience-act-reporting",
+      "file": "article/cyber-resilience-act-reporting/index.html",
+      "status": 200,
+      "bytes": 323421
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cyber-security-for-law-firms-best-practices",
+      "file": "article/cyber-security-for-law-firms-best-practices/index.html",
+      "status": 200,
+      "bytes": 320619
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cybersecurity-budgets-planning-guide",
+      "file": "article/cybersecurity-budgets-planning-guide/index.html",
+      "status": 200,
+      "bytes": 329383
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cybersecurity-compliance-guide",
+      "file": "article/cybersecurity-compliance-guide/index.html",
+      "status": 200,
+      "bytes": 326864
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cybersecurity-due-diligence-checklist",
+      "file": "article/cybersecurity-due-diligence-checklist/index.html",
+      "status": 200,
+      "bytes": 325234
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cybersecurity-expert-witness",
+      "file": "article/cybersecurity-expert-witness/index.html",
+      "status": 200,
+      "bytes": 321334
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cybersecurity-for-financial-services-sector",
+      "file": "article/cybersecurity-for-financial-services-sector/index.html",
+      "status": 200,
+      "bytes": 316026
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cybersecurity-in-education-sector",
+      "file": "article/cybersecurity-in-education-sector/index.html",
+      "status": 200,
+      "bytes": 322903
+    },
+    {
+      "url": "https://www.bdemerson.com/article/cybersecurity-metrics-and-kpis-for-board-reporting",
+      "file": "article/cybersecurity-metrics-and-kpis-for-board-reporting/index.html",
+      "status": 200,
+      "bytes": 345957
+    },
+    {
+      "url": "https://www.bdemerson.com/article/data-engineering-consulting-rates",
+      "file": "article/data-engineering-consulting-rates/index.html",
+      "status": 200,
+      "bytes": 306511
+    },
+    {
+      "url": "https://www.bdemerson.com/article/data-governance-framework",
+      "file": "article/data-governance-framework/index.html",
+      "status": 200,
+      "bytes": 324432
+    },
+    {
+      "url": "https://www.bdemerson.com/article/data-governance-tools",
+      "file": "article/data-governance-tools/index.html",
+      "status": 200,
+      "bytes": 327724
+    },
+    {
+      "url": "https://www.bdemerson.com/article/databricks-enterprise-ai-stack",
+      "file": "article/databricks-enterprise-ai-stack/index.html",
+      "status": 200,
+      "bytes": 301377
+    },
+    {
+      "url": "https://www.bdemerson.com/article/databricks-vs-snowflake-enterprise-comparison",
+      "file": "article/databricks-vs-snowflake-enterprise-comparison/index.html",
+      "status": 200,
+      "bytes": 302618
+    },
+    {
+      "url": "https://www.bdemerson.com/article/day-1-readiness-checklist",
+      "file": "article/day-1-readiness-checklist/index.html",
+      "status": 200,
+      "bytes": 318034
+    },
+    {
+      "url": "https://www.bdemerson.com/article/departing-employee-data-theft",
+      "file": "article/departing-employee-data-theft/index.html",
+      "status": 200,
+      "bytes": 321047
+    },
+    {
+      "url": "https://www.bdemerson.com/article/devsecops-best-practices",
+      "file": "article/devsecops-best-practices/index.html",
+      "status": 200,
+      "bytes": 307354
+    },
+    {
+      "url": "https://www.bdemerson.com/article/difference-between-iso-27001-and-nist",
+      "file": "article/difference-between-iso-27001-and-nist/index.html",
+      "status": 200,
+      "bytes": 312050
+    },
+    {
+      "url": "https://www.bdemerson.com/article/digital-product-passport",
+      "file": "article/digital-product-passport/index.html",
+      "status": 200,
+      "bytes": 327473
+    },
+    {
+      "url": "https://www.bdemerson.com/article/digital-product-passport-security",
+      "file": "article/digital-product-passport-security/index.html",
+      "status": 200,
+      "bytes": 323018
+    },
+    {
+      "url": "https://www.bdemerson.com/article/digital-product-passport-software",
+      "file": "article/digital-product-passport-software/index.html",
+      "status": 200,
+      "bytes": 324262
+    },
+    {
+      "url": "https://www.bdemerson.com/article/digital-product-passport-textiles",
+      "file": "article/digital-product-passport-textiles/index.html",
+      "status": 200,
+      "bytes": 323212
+    },
+    {
+      "url": "https://www.bdemerson.com/article/digital-transformation-basics",
+      "file": "article/digital-transformation-basics/index.html",
+      "status": 200,
+      "bytes": 301830
+    },
+    {
+      "url": "https://www.bdemerson.com/article/digital-transformation-compliance-challenges",
+      "file": "article/digital-transformation-compliance-challenges/index.html",
+      "status": 200,
+      "bytes": 323821
+    },
+    {
+      "url": "https://www.bdemerson.com/article/digital-transformation-consulting-firms",
+      "file": "article/digital-transformation-consulting-firms/index.html",
+      "status": 200,
+      "bytes": 306533
+    },
+    {
+      "url": "https://www.bdemerson.com/article/divestiture-vs-spin-off",
+      "file": "article/divestiture-vs-spin-off/index.html",
+      "status": 200,
+      "bytes": 306802
+    },
+    {
+      "url": "https://www.bdemerson.com/article/dpo-as-a-service-pricing",
+      "file": "article/dpo-as-a-service-pricing/index.html",
+      "status": 200,
+      "bytes": 307001
+    },
+    {
+      "url": "https://www.bdemerson.com/article/drata-pricing",
+      "file": "article/drata-pricing/index.html",
+      "status": 200,
+      "bytes": 305546
+    },
+    {
+      "url": "https://www.bdemerson.com/article/dsar",
+      "file": "article/dsar/index.html",
+      "status": 200,
+      "bytes": 325554
+    },
+    {
+      "url": "https://www.bdemerson.com/article/duck-creek-technologies",
+      "file": "article/duck-creek-technologies/index.html",
+      "status": 200,
+      "bytes": 332903
+    },
+    {
+      "url": "https://www.bdemerson.com/article/due-diligence-report",
+      "file": "article/due-diligence-report/index.html",
+      "status": 200,
+      "bytes": 305685
+    },
+    {
+      "url": "https://www.bdemerson.com/article/earn-out",
+      "file": "article/earn-out/index.html",
+      "status": 200,
+      "bytes": 325661
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ebitda-adjustments-guide",
+      "file": "article/ebitda-adjustments-guide/index.html",
+      "status": 200,
+      "bytes": 301565
+    },
+    {
+      "url": "https://www.bdemerson.com/article/eu-battery-passport",
+      "file": "article/eu-battery-passport/index.html",
+      "status": 200,
+      "bytes": 322409
+    },
+    {
+      "url": "https://www.bdemerson.com/article/eu-battery-regulation",
+      "file": "article/eu-battery-regulation/index.html",
+      "status": 200,
+      "bytes": 322579
+    },
+    {
+      "url": "https://www.bdemerson.com/article/exit-readiness-preparing-company-for-sale",
+      "file": "article/exit-readiness-preparing-company-for-sale/index.html",
+      "status": 200,
+      "bytes": 301401
+    },
+    {
+      "url": "https://www.bdemerson.com/article/fedramp-20x",
+      "file": "article/fedramp-20x/index.html",
+      "status": 200,
+      "bytes": 385554
+    },
+    {
+      "url": "https://www.bdemerson.com/article/fedramp-red-team-ca-8-2-requirement",
+      "file": "article/fedramp-red-team-ca-8-2-requirement/index.html",
+      "status": 200,
+      "bytes": 303510
+    },
+    {
+      "url": "https://www.bdemerson.com/article/fedramp-requirements-explained",
+      "file": "article/fedramp-requirements-explained/index.html",
+      "status": 200,
+      "bytes": 309063
+    },
+    {
+      "url": "https://www.bdemerson.com/article/financial-due-diligence-checklist",
+      "file": "article/financial-due-diligence-checklist/index.html",
+      "status": 200,
+      "bytes": 304032
+    },
+    {
+      "url": "https://www.bdemerson.com/article/first-90-days-fractional-ciso",
+      "file": "article/first-90-days-fractional-ciso/index.html",
+      "status": 200,
+      "bytes": 306190
+    },
+    {
+      "url": "https://www.bdemerson.com/article/fractional-vs-full-time-ciso",
+      "file": "article/fractional-vs-full-time-ciso/index.html",
+      "status": 200,
+      "bytes": 306035
+    },
+    {
+      "url": "https://www.bdemerson.com/article/glba-compliance-checklist",
+      "file": "article/glba-compliance-checklist/index.html",
+      "status": 200,
+      "bytes": 319901
+    },
+    {
+      "url": "https://www.bdemerson.com/article/growth-equity",
+      "file": "article/growth-equity/index.html",
+      "status": 200,
+      "bytes": 325479
+    },
+    {
+      "url": "https://www.bdemerson.com/article/gs1-digital-link",
+      "file": "article/gs1-digital-link/index.html",
+      "status": 200,
+      "bytes": 322295
+    },
+    {
+      "url": "https://www.bdemerson.com/article/guide-to-cybersecurity-standards-and-frameworks",
+      "file": "article/guide-to-cybersecurity-standards-and-frameworks/index.html",
+      "status": 200,
+      "bytes": 327831
+    },
+    {
+      "url": "https://www.bdemerson.com/article/guide-to-secure-ai-system-development",
+      "file": "article/guide-to-secure-ai-system-development/index.html",
+      "status": 200,
+      "bytes": 306804
+    },
+    {
+      "url": "https://www.bdemerson.com/article/guide-to-system-security-plans-ssp-for-nist-sp-800-171-and-cmmc",
+      "file": "article/guide-to-system-security-plans-ssp-for-nist-sp-800-171-and-cmmc/index.html",
+      "status": 200,
+      "bytes": 306516
+    },
+    {
+      "url": "https://www.bdemerson.com/article/guidewire-alternatives",
+      "file": "article/guidewire-alternatives/index.html",
+      "status": 200,
+      "bytes": 324726
+    },
+    {
+      "url": "https://www.bdemerson.com/article/guidewire-cloud-migration",
+      "file": "article/guidewire-cloud-migration/index.html",
+      "status": 200,
+      "bytes": 320549
+    },
+    {
+      "url": "https://www.bdemerson.com/article/guidewire-implementation",
+      "file": "article/guidewire-implementation/index.html",
+      "status": 200,
+      "bytes": 319772
+    },
+    {
+      "url": "https://www.bdemerson.com/article/guidewire-pricing",
+      "file": "article/guidewire-pricing/index.html",
+      "status": 200,
+      "bytes": 313623
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-capital-planning",
+      "file": "article/healthcare-capital-planning/index.html",
+      "status": 200,
+      "bytes": 304424
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-cmo",
+      "file": "article/healthcare-cmo/index.html",
+      "status": 200,
+      "bytes": 303983
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-cybersecurity-guide",
+      "file": "article/healthcare-cybersecurity-guide/index.html",
+      "status": 200,
+      "bytes": 324318
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-m-a-due-diligence",
+      "file": "article/healthcare-m-a-due-diligence/index.html",
+      "status": 200,
+      "bytes": 307013
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-marketing-consultants",
+      "file": "article/healthcare-marketing-consultants/index.html",
+      "status": 200,
+      "bytes": 304983
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-marketing-roi",
+      "file": "article/healthcare-marketing-roi/index.html",
+      "status": 200,
+      "bytes": 304545
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-marketing-strategy",
+      "file": "article/healthcare-marketing-strategy/index.html",
+      "status": 200,
+      "bytes": 306666
+    },
+    {
+      "url": "https://www.bdemerson.com/article/healthcare-strategic-planning",
+      "file": "article/healthcare-strategic-planning/index.html",
+      "status": 200,
+      "bytes": 304775
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hipaa-and-ai",
+      "file": "article/hipaa-and-ai/index.html",
+      "status": 200,
+      "bytes": 324428
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hipaa-compliance-checklist",
+      "file": "article/hipaa-compliance-checklist/index.html",
+      "status": 200,
+      "bytes": 328401
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hipaa-security-risk-assessment",
+      "file": "article/hipaa-security-risk-assessment/index.html",
+      "status": 200,
+      "bytes": 326406
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hipaa-security-rule-update-2026",
+      "file": "article/hipaa-security-rule-update-2026/index.html",
+      "status": 200,
+      "bytes": 313935
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hitrust-certification",
+      "file": "article/hitrust-certification/index.html",
+      "status": 200,
+      "bytes": 327734
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hospital-branding",
+      "file": "article/hospital-branding/index.html",
+      "status": 200,
+      "bytes": 304330
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hosting-open-weight-llms-azure-zero-egress",
+      "file": "article/hosting-open-weight-llms-azure-zero-egress/index.html",
+      "status": 200,
+      "bytes": 301161
+    },
+    {
+      "url": "https://www.bdemerson.com/article/how-much-does-a-firewall-cost",
+      "file": "article/how-much-does-a-firewall-cost/index.html",
+      "status": 200,
+      "bytes": 319774
+    },
+    {
+      "url": "https://www.bdemerson.com/article/how-to-build-a-data-privacy-program",
+      "file": "article/how-to-build-a-data-privacy-program/index.html",
+      "status": 200,
+      "bytes": 328311
+    },
+    {
+      "url": "https://www.bdemerson.com/article/how-to-build-ai-governance-framework",
+      "file": "article/how-to-build-ai-governance-framework/index.html",
+      "status": 200,
+      "bytes": 302762
+    },
+    {
+      "url": "https://www.bdemerson.com/article/how-to-calculate-compliance-roi",
+      "file": "article/how-to-calculate-compliance-roi/index.html",
+      "status": 200,
+      "bytes": 325483
+    },
+    {
+      "url": "https://www.bdemerson.com/article/how-to-value-intangible-assets",
+      "file": "article/how-to-value-intangible-assets/index.html",
+      "status": 200,
+      "bytes": 309040
+    },
+    {
+      "url": "https://www.bdemerson.com/article/how-to-write-a-security-policy",
+      "file": "article/how-to-write-a-security-policy/index.html",
+      "status": 200,
+      "bytes": 324408
+    },
+    {
+      "url": "https://www.bdemerson.com/article/hubspot-requiring",
+      "file": "article/hubspot-requiring/index.html",
+      "status": 200,
+      "bytes": 305177
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iec-62443",
+      "file": "article/iec-62443/index.html",
+      "status": 200,
+      "bytes": 325571
+    },
+    {
+      "url": "https://www.bdemerson.com/article/impact-of-artificial-intelligence-on-cybersecurity",
+      "file": "article/impact-of-artificial-intelligence-on-cybersecurity/index.html",
+      "status": 200,
+      "bytes": 321993
+    },
+    {
+      "url": "https://www.bdemerson.com/article/in-house-vs-outsourced-dpo",
+      "file": "article/in-house-vs-outsourced-dpo/index.html",
+      "status": 200,
+      "bytes": 307808
+    },
+    {
+      "url": "https://www.bdemerson.com/article/insurance-claims-management-system",
+      "file": "article/insurance-claims-management-system/index.html",
+      "status": 200,
+      "bytes": 330676
+    },
+    {
+      "url": "https://www.bdemerson.com/article/intangible-asset-due-diligence",
+      "file": "article/intangible-asset-due-diligence/index.html",
+      "status": 200,
+      "bytes": 306519
+    },
+    {
+      "url": "https://www.bdemerson.com/article/intangible-asset-strategy",
+      "file": "article/intangible-asset-strategy/index.html",
+      "status": 200,
+      "bytes": 307874
+    },
+    {
+      "url": "https://www.bdemerson.com/article/intangible-assets-on-the-balance-sheet",
+      "file": "article/intangible-assets-on-the-balance-sheet/index.html",
+      "status": 200,
+      "bytes": 307544
+    },
+    {
+      "url": "https://www.bdemerson.com/article/internal-audit-and-strengthening-cybersecurity",
+      "file": "article/internal-audit-and-strengthening-cybersecurity/index.html",
+      "status": 200,
+      "bytes": 311714
+    },
+    {
+      "url": "https://www.bdemerson.com/article/internal-security-audit-guide",
+      "file": "article/internal-security-audit-guide/index.html",
+      "status": 200,
+      "bytes": 313666
+    },
+    {
+      "url": "https://www.bdemerson.com/article/internal-vs-external-penetration-testing",
+      "file": "article/internal-vs-external-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 317851
+    },
+    {
+      "url": "https://www.bdemerson.com/article/investor-due-diligence",
+      "file": "article/investor-due-diligence/index.html",
+      "status": 200,
+      "bytes": 305941
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ip-due-diligence",
+      "file": "article/ip-due-diligence/index.html",
+      "status": 200,
+      "bytes": 306904
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ip-valuation",
+      "file": "article/ip-valuation/index.html",
+      "status": 200,
+      "bytes": 308284
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ipo-readiness",
+      "file": "article/ipo-readiness/index.html",
+      "status": 200,
+      "bytes": 306210
+    },
+    {
+      "url": "https://www.bdemerson.com/article/is-chatgpt-hipaa-compliant",
+      "file": "article/is-chatgpt-hipaa-compliant/index.html",
+      "status": 200,
+      "bytes": 323758
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iso-27001-certification-cost",
+      "file": "article/iso-27001-certification-cost/index.html",
+      "status": 200,
+      "bytes": 306014
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iso-27001-clause-9-2-internal-audit",
+      "file": "article/iso-27001-clause-9-2-internal-audit/index.html",
+      "status": 200,
+      "bytes": 307340
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iso-27001-implementation-guide",
+      "file": "article/iso-27001-implementation-guide/index.html",
+      "status": 200,
+      "bytes": 467253
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iso-27001-vs-soc-2",
+      "file": "article/iso-27001-vs-soc-2/index.html",
+      "status": 200,
+      "bytes": 305912
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iso-42001-certification-path",
+      "file": "article/iso-42001-certification-path/index.html",
+      "status": 200,
+      "bytes": 305245
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iso-42001-vs-nist-ai-rmf",
+      "file": "article/iso-42001-vs-nist-ai-rmf/index.html",
+      "status": 200,
+      "bytes": 302086
+    },
+    {
+      "url": "https://www.bdemerson.com/article/iso-iec-42001-ai-security-implementation-guide",
+      "file": "article/iso-iec-42001-ai-security-implementation-guide/index.html",
+      "status": 200,
+      "bytes": 339594
+    },
+    {
+      "url": "https://www.bdemerson.com/article/it-carve-out",
+      "file": "article/it-carve-out/index.html",
+      "status": 200,
+      "bytes": 306522
+    },
+    {
+      "url": "https://www.bdemerson.com/article/itgc",
+      "file": "article/itgc/index.html",
+      "status": 200,
+      "bytes": 306322
+    },
+    {
+      "url": "https://www.bdemerson.com/article/kovel-agreement",
+      "file": "article/kovel-agreement/index.html",
+      "status": 200,
+      "bytes": 324515
+    },
+    {
+      "url": "https://www.bdemerson.com/article/legacy-application-modernization-a-step-by-step-guide",
+      "file": "article/legacy-application-modernization-a-step-by-step-guide/index.html",
+      "status": 200,
+      "bytes": 318045
+    },
+    {
+      "url": "https://www.bdemerson.com/article/letter-of-intent-ma",
+      "file": "article/letter-of-intent-ma/index.html",
+      "status": 200,
+      "bytes": 306515
+    },
+    {
+      "url": "https://www.bdemerson.com/article/litigation-hold",
+      "file": "article/litigation-hold/index.html",
+      "status": 200,
+      "bytes": 323111
+    },
+    {
+      "url": "https://www.bdemerson.com/article/m-a-strategy",
+      "file": "article/m-a-strategy/index.html",
+      "status": 200,
+      "bytes": 305846
+    },
+    {
+      "url": "https://www.bdemerson.com/article/majesco",
+      "file": "article/majesco/index.html",
+      "status": 200,
+      "bytes": 327651
+    },
+    {
+      "url": "https://www.bdemerson.com/article/making-your-to-do-list-for-2023-dont-forget-to-include-data-privacy-and-cybersecurity",
+      "file": "article/making-your-to-do-list-for-2023-dont-forget-to-include-data-privacy-and-cybersecurity/index.html",
+      "status": 200,
+      "bytes": 301281
+    },
+    {
+      "url": "https://www.bdemerson.com/article/managing-technical-debt",
+      "file": "article/managing-technical-debt/index.html",
+      "status": 200,
+      "bytes": 315221
+    },
+    {
+      "url": "https://www.bdemerson.com/article/market-cap-vs-enterprise-value",
+      "file": "article/market-cap-vs-enterprise-value/index.html",
+      "status": 200,
+      "bytes": 305611
+    },
+    {
+      "url": "https://www.bdemerson.com/article/market-opportunity-analysis",
+      "file": "article/market-opportunity-analysis/index.html",
+      "status": 200,
+      "bytes": 306229
+    },
+    {
+      "url": "https://www.bdemerson.com/article/market-sizing",
+      "file": "article/market-sizing/index.html",
+      "status": 200,
+      "bytes": 305622
+    },
+    {
+      "url": "https://www.bdemerson.com/article/mastering-the-future-of-cybersecurity-the-2022-iso-27001-update-unveiled",
+      "file": "article/mastering-the-future-of-cybersecurity-the-2022-iso-27001-update-unveiled/index.html",
+      "status": 200,
+      "bytes": 307307
+    },
+    {
+      "url": "https://www.bdemerson.com/article/maven-smart-system",
+      "file": "article/maven-smart-system/index.html",
+      "status": 200,
+      "bytes": 329981
+    },
+    {
+      "url": "https://www.bdemerson.com/article/mcp-security",
+      "file": "article/mcp-security/index.html",
+      "status": 200,
+      "bytes": 305839
+    },
+    {
+      "url": "https://www.bdemerson.com/article/mdr-vs-soc-as-a-service",
+      "file": "article/mdr-vs-soc-as-a-service/index.html",
+      "status": 200,
+      "bytes": 306694
+    },
+    {
+      "url": "https://www.bdemerson.com/article/medallion-architecture",
+      "file": "article/medallion-architecture/index.html",
+      "status": 200,
+      "bytes": 326672
+    },
+    {
+      "url": "https://www.bdemerson.com/article/medical-practice-valuation",
+      "file": "article/medical-practice-valuation/index.html",
+      "status": 200,
+      "bytes": 305849
+    },
+    {
+      "url": "https://www.bdemerson.com/article/microsoft-365-copilot-security",
+      "file": "article/microsoft-365-copilot-security/index.html",
+      "status": 200,
+      "bytes": 307622
+    },
+    {
+      "url": "https://www.bdemerson.com/article/microsoft-office-zero-day-cve-2026-21509-emergency-patch",
+      "file": "article/microsoft-office-zero-day-cve-2026-21509-emergency-patch/index.html",
+      "status": 200,
+      "bytes": 303264
+    },
+    {
+      "url": "https://www.bdemerson.com/article/mitre-attack-framework",
+      "file": "article/mitre-attack-framework/index.html",
+      "status": 200,
+      "bytes": 327410
+    },
+    {
+      "url": "https://www.bdemerson.com/article/model-context-protocol",
+      "file": "article/model-context-protocol/index.html",
+      "status": 200,
+      "bytes": 328736
+    },
+    {
+      "url": "https://www.bdemerson.com/article/mvp-development",
+      "file": "article/mvp-development/index.html",
+      "status": 200,
+      "bytes": 325491
+    },
+    {
+      "url": "https://www.bdemerson.com/article/mychart-phishing-brand-impersonation",
+      "file": "article/mychart-phishing-brand-impersonation/index.html",
+      "status": 200,
+      "bytes": 309283
+    },
+    {
+      "url": "https://www.bdemerson.com/article/n8n-vs-zapier",
+      "file": "article/n8n-vs-zapier/index.html",
+      "status": 200,
+      "bytes": 307260
+    },
+    {
+      "url": "https://www.bdemerson.com/article/navigating-ai-governance-compliance-strategies-for-businesses",
+      "file": "article/navigating-ai-governance-compliance-strategies-for-businesses/index.html",
+      "status": 200,
+      "bytes": 313949
+    },
+    {
+      "url": "https://www.bdemerson.com/article/net-working-capital",
+      "file": "article/net-working-capital/index.html",
+      "status": 200,
+      "bytes": 324494
+    },
+    {
+      "url": "https://www.bdemerson.com/article/new-cyber-insurance-requirements",
+      "file": "article/new-cyber-insurance-requirements/index.html",
+      "status": 200,
+      "bytes": 307824
+    },
+    {
+      "url": "https://www.bdemerson.com/article/new-virginia-privacy-law",
+      "file": "article/new-virginia-privacy-law/index.html",
+      "status": 200,
+      "bytes": 302700
+    },
+    {
+      "url": "https://www.bdemerson.com/article/nist-ai-agent-standards-initiative",
+      "file": "article/nist-ai-agent-standards-initiative/index.html",
+      "status": 200,
+      "bytes": 307648
+    },
+    {
+      "url": "https://www.bdemerson.com/article/nist-ai-rmf-scoring",
+      "file": "article/nist-ai-rmf-scoring/index.html",
+      "status": 200,
+      "bytes": 306388
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ontology-engineering",
+      "file": "article/ontology-engineering/index.html",
+      "status": 200,
+      "bytes": 305790
+    },
+    {
+      "url": "https://www.bdemerson.com/article/operational-due-diligence-checklist",
+      "file": "article/operational-due-diligence-checklist/index.html",
+      "status": 200,
+      "bytes": 306356
+    },
+    {
+      "url": "https://www.bdemerson.com/article/owasp-api-security-top-10",
+      "file": "article/owasp-api-security-top-10/index.html",
+      "status": 200,
+      "bytes": 302593
+    },
+    {
+      "url": "https://www.bdemerson.com/article/owasp-llm-top-10",
+      "file": "article/owasp-llm-top-10/index.html",
+      "status": 200,
+      "bytes": 306240
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-apollo",
+      "file": "article/palantir-apollo/index.html",
+      "status": 200,
+      "bytes": 305059
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-competitors-alternatives",
+      "file": "article/palantir-competitors-alternatives/index.html",
+      "status": 200,
+      "bytes": 306221
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-cost",
+      "file": "article/palantir-cost/index.html",
+      "status": 200,
+      "bytes": 304601
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-fedstart-fedramp",
+      "file": "article/palantir-fedstart-fedramp/index.html",
+      "status": 200,
+      "bytes": 305015
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-gotham",
+      "file": "article/palantir-gotham/index.html",
+      "status": 200,
+      "bytes": 330257
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-healthcare-hospital-operations",
+      "file": "article/palantir-healthcare-hospital-operations/index.html",
+      "status": 200,
+      "bytes": 301693
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-implementation-partners",
+      "file": "article/palantir-implementation-partners/index.html",
+      "status": 200,
+      "bytes": 303346
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-insurance-underwriting",
+      "file": "article/palantir-insurance-underwriting/index.html",
+      "status": 200,
+      "bytes": 301478
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-medical-research",
+      "file": "article/palantir-medical-research/index.html",
+      "status": 200,
+      "bytes": 300897
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-ontology-explained",
+      "file": "article/palantir-ontology-explained/index.html",
+      "status": 200,
+      "bytes": 306332
+    },
+    {
+      "url": "https://www.bdemerson.com/article/palantir-vs-databricks",
+      "file": "article/palantir-vs-databricks/index.html",
+      "status": 200,
+      "bytes": 307774
+    },
+    {
+      "url": "https://www.bdemerson.com/article/patch-management",
+      "file": "article/patch-management/index.html",
+      "status": 200,
+      "bytes": 302392
+    },
+    {
+      "url": "https://www.bdemerson.com/article/pci-compliance-cost",
+      "file": "article/pci-compliance-cost/index.html",
+      "status": 200,
+      "bytes": 324093
+    },
+    {
+      "url": "https://www.bdemerson.com/article/pci-compliance-levels",
+      "file": "article/pci-compliance-levels/index.html",
+      "status": 200,
+      "bytes": 326337
+    },
+    {
+      "url": "https://www.bdemerson.com/article/penetration-testing-cost",
+      "file": "article/penetration-testing-cost/index.html",
+      "status": 200,
+      "bytes": 306753
+    },
+    {
+      "url": "https://www.bdemerson.com/article/physician-liaison",
+      "file": "article/physician-liaison/index.html",
+      "status": 200,
+      "bytes": 304420
+    },
+    {
+      "url": "https://www.bdemerson.com/article/physician-practice-acquisition",
+      "file": "article/physician-practice-acquisition/index.html",
+      "status": 200,
+      "bytes": 306414
+    },
+    {
+      "url": "https://www.bdemerson.com/article/policy-administration-system",
+      "file": "article/policy-administration-system/index.html",
+      "status": 200,
+      "bytes": 329135
+    },
+    {
+      "url": "https://www.bdemerson.com/article/portfolio-company-ai-playbook",
+      "file": "article/portfolio-company-ai-playbook/index.html",
+      "status": 200,
+      "bytes": 300363
+    },
+    {
+      "url": "https://www.bdemerson.com/article/positioning-strategy",
+      "file": "article/positioning-strategy/index.html",
+      "status": 200,
+      "bytes": 306086
+    },
+    {
+      "url": "https://www.bdemerson.com/article/post-merger-integration-100-day-plan",
+      "file": "article/post-merger-integration-100-day-plan/index.html",
+      "status": 200,
+      "bytes": 304172
+    },
+    {
+      "url": "https://www.bdemerson.com/article/post-merger-it-integration",
+      "file": "article/post-merger-it-integration/index.html",
+      "status": 200,
+      "bytes": 306396
+    },
+    {
+      "url": "https://www.bdemerson.com/article/private-equity-carve-outs",
+      "file": "article/private-equity-carve-outs/index.html",
+      "status": 200,
+      "bytes": 317497
+    },
+    {
+      "url": "https://www.bdemerson.com/article/private-equity-due-diligence",
+      "file": "article/private-equity-due-diligence/index.html",
+      "status": 200,
+      "bytes": 325751
+    },
+    {
+      "url": "https://www.bdemerson.com/article/private-equity-value-creation-plan",
+      "file": "article/private-equity-value-creation-plan/index.html",
+      "status": 200,
+      "bytes": 300725
+    },
+    {
+      "url": "https://www.bdemerson.com/article/prompt-injection",
+      "file": "article/prompt-injection/index.html",
+      "status": 200,
+      "bytes": 302885
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ptaas-vs-traditional-pentesting",
+      "file": "article/ptaas-vs-traditional-pentesting/index.html",
+      "status": 200,
+      "bytes": 304655
+    },
+    {
+      "url": "https://www.bdemerson.com/article/quality-of-earnings-report-cost",
+      "file": "article/quality-of-earnings-report-cost/index.html",
+      "status": 200,
+      "bytes": 306529
+    },
+    {
+      "url": "https://www.bdemerson.com/article/rag-security",
+      "file": "article/rag-security/index.html",
+      "status": 200,
+      "bytes": 304667
+    },
+    {
+      "url": "https://www.bdemerson.com/article/rag-vs-fine-tuning",
+      "file": "article/rag-vs-fine-tuning/index.html",
+      "status": 200,
+      "bytes": 302825
+    },
+    {
+      "url": "https://www.bdemerson.com/article/ransomware-investigation",
+      "file": "article/ransomware-investigation/index.html",
+      "status": 200,
+      "bytes": 323285
+    },
+    {
+      "url": "https://www.bdemerson.com/article/red-team-vs-blue-team-vs-purple-team",
+      "file": "article/red-team-vs-blue-team-vs-purple-team/index.html",
+      "status": 200,
+      "bytes": 316306
+    },
+    {
+      "url": "https://www.bdemerson.com/article/red-team-vs-penetration-testing",
+      "file": "article/red-team-vs-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 302277
+    },
+    {
+      "url": "https://www.bdemerson.com/article/referral-leakage",
+      "file": "article/referral-leakage/index.html",
+      "status": 200,
+      "bytes": 305894
+    },
+    {
+      "url": "https://www.bdemerson.com/article/referral-leakage-statistics",
+      "file": "article/referral-leakage-statistics/index.html",
+      "status": 200,
+      "bytes": 302932
+    },
+    {
+      "url": "https://www.bdemerson.com/article/replacing-guidewire",
+      "file": "article/replacing-guidewire/index.html",
+      "status": 200,
+      "bytes": 323450
+    },
+    {
+      "url": "https://www.bdemerson.com/article/representations-and-warranties-insurance",
+      "file": "article/representations-and-warranties-insurance/index.html",
+      "status": 200,
+      "bytes": 322649
+    },
+    {
+      "url": "https://www.bdemerson.com/article/saas-spend-management",
+      "file": "article/saas-spend-management/index.html",
+      "status": 200,
+      "bytes": 323532
+    },
+    {
+      "url": "https://www.bdemerson.com/article/saif-risk-assessment",
+      "file": "article/saif-risk-assessment/index.html",
+      "status": 200,
+      "bytes": 317764
+    },
+    {
+      "url": "https://www.bdemerson.com/article/save-big-on-cyber-insurance",
+      "file": "article/save-big-on-cyber-insurance/index.html",
+      "status": 200,
+      "bytes": 311273
+    },
+    {
+      "url": "https://www.bdemerson.com/article/sbom-requirements",
+      "file": "article/sbom-requirements/index.html",
+      "status": 200,
+      "bytes": 324884
+    },
+    {
+      "url": "https://www.bdemerson.com/article/scrut-automation-partnership",
+      "file": "article/scrut-automation-partnership/index.html",
+      "status": 200,
+      "bytes": 301762
+    },
+    {
+      "url": "https://www.bdemerson.com/article/secure-hiring-process",
+      "file": "article/secure-hiring-process/index.html",
+      "status": 200,
+      "bytes": 308017
+    },
+    {
+      "url": "https://www.bdemerson.com/article/securing-ai-agents",
+      "file": "article/securing-ai-agents/index.html",
+      "status": 200,
+      "bytes": 305945
+    },
+    {
+      "url": "https://www.bdemerson.com/article/securing-palantir-deployments",
+      "file": "article/securing-palantir-deployments/index.html",
+      "status": 200,
+      "bytes": 300770
+    },
+    {
+      "url": "https://www.bdemerson.com/article/security-audit-checklist",
+      "file": "article/security-audit-checklist/index.html",
+      "status": 200,
+      "bytes": 308268
+    },
+    {
+      "url": "https://www.bdemerson.com/article/security-maturity-assessment",
+      "file": "article/security-maturity-assessment/index.html",
+      "status": 200,
+      "bytes": 332187
+    },
+    {
+      "url": "https://www.bdemerson.com/article/sell-side-due-diligence",
+      "file": "article/sell-side-due-diligence/index.html",
+      "status": 200,
+      "bytes": 306326
+    },
+    {
+      "url": "https://www.bdemerson.com/article/sell-side-ma-process",
+      "file": "article/sell-side-ma-process/index.html",
+      "status": 200,
+      "bytes": 305894
+    },
+    {
+      "url": "https://www.bdemerson.com/article/series-a-to-series-b",
+      "file": "article/series-a-to-series-b/index.html",
+      "status": 200,
+      "bytes": 305261
+    },
+    {
+      "url": "https://www.bdemerson.com/article/servicenow-irm-vs-grc",
+      "file": "article/servicenow-irm-vs-grc/index.html",
+      "status": 200,
+      "bytes": 308747
+    },
+    {
+      "url": "https://www.bdemerson.com/article/shadow-ai",
+      "file": "article/shadow-ai/index.html",
+      "status": 200,
+      "bytes": 326528
+    },
+    {
+      "url": "https://www.bdemerson.com/article/small-business-cybersecurity-statistics",
+      "file": "article/small-business-cybersecurity-statistics/index.html",
+      "status": 200,
+      "bytes": 317538
+    },
+    {
+      "url": "https://www.bdemerson.com/article/smart-model-routing-enterprise-ai",
+      "file": "article/smart-model-routing-enterprise-ai/index.html",
+      "status": 200,
+      "bytes": 301479
+    },
+    {
+      "url": "https://www.bdemerson.com/article/snowflake-pricing",
+      "file": "article/snowflake-pricing/index.html",
+      "status": 200,
+      "bytes": 305759
+    },
+    {
+      "url": "https://www.bdemerson.com/article/snowflake-to-databricks-migration",
+      "file": "article/snowflake-to-databricks-migration/index.html",
+      "status": 200,
+      "bytes": 307013
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-1-report",
+      "file": "article/soc-1-report/index.html",
+      "status": 200,
+      "bytes": 324416
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-1-vs-soc-2",
+      "file": "article/soc-1-vs-soc-2/index.html",
+      "status": 200,
+      "bytes": 324304
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-2-bridge-letter",
+      "file": "article/soc-2-bridge-letter/index.html",
+      "status": 200,
+      "bytes": 303727
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-2-compliance-checklist",
+      "file": "article/soc-2-compliance-checklist/index.html",
+      "status": 200,
+      "bytes": 304848
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-2-compliant-as-a-hubspot-partner",
+      "file": "article/soc-2-compliant-as-a-hubspot-partner/index.html",
+      "status": 200,
+      "bytes": 297928
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-2-cost",
+      "file": "article/soc-2-cost/index.html",
+      "status": 200,
+      "bytes": 306534
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-2-cybersecurity-ma-due-diligence",
+      "file": "article/soc-2-cybersecurity-ma-due-diligence/index.html",
+      "status": 200,
+      "bytes": 303987
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-2-for-startups",
+      "file": "article/soc-2-for-startups/index.html",
+      "status": 200,
+      "bytes": 304083
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-2-type-1-vs-type-2",
+      "file": "article/soc-2-type-1-vs-type-2/index.html",
+      "status": 200,
+      "bytes": 301025
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-3-report",
+      "file": "article/soc-3-report/index.html",
+      "status": 200,
+      "bytes": 303779
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-as-a-service-pricing",
+      "file": "article/soc-as-a-service-pricing/index.html",
+      "status": 200,
+      "bytes": 306699
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc-as-a-service-vs-in-house-soc",
+      "file": "article/soc-as-a-service-vs-in-house-soc/index.html",
+      "status": 200,
+      "bytes": 337097
+    },
+    {
+      "url": "https://www.bdemerson.com/article/soc2-private-equity-value-lever",
+      "file": "article/soc2-private-equity-value-lever/index.html",
+      "status": 200,
+      "bytes": 300243
+    },
+    {
+      "url": "https://www.bdemerson.com/article/software-development-outsourcing",
+      "file": "article/software-development-outsourcing/index.html",
+      "status": 200,
+      "bytes": 326081
+    },
+    {
+      "url": "https://www.bdemerson.com/article/software-due-diligence-checklist",
+      "file": "article/software-due-diligence-checklist/index.html",
+      "status": 200,
+      "bytes": 306377
+    },
+    {
+      "url": "https://www.bdemerson.com/article/software-license-optimization",
+      "file": "article/software-license-optimization/index.html",
+      "status": 200,
+      "bytes": 321442
+    },
+    {
+      "url": "https://www.bdemerson.com/article/sox-404-compliance",
+      "file": "article/sox-404-compliance/index.html",
+      "status": 200,
+      "bytes": 306295
+    },
+    {
+      "url": "https://www.bdemerson.com/article/sox-compliance",
+      "file": "article/sox-compliance/index.html",
+      "status": 200,
+      "bytes": 306226
+    },
+    {
+      "url": "https://www.bdemerson.com/article/sprs-score-explained",
+      "file": "article/sprs-score-explained/index.html",
+      "status": 200,
+      "bytes": 305949
+    },
+    {
+      "url": "https://www.bdemerson.com/article/staff-augmentation",
+      "file": "article/staff-augmentation/index.html",
+      "status": 200,
+      "bytes": 326802
+    },
+    {
+      "url": "https://www.bdemerson.com/article/stranded-costs-after-a-divestiture",
+      "file": "article/stranded-costs-after-a-divestiture/index.html",
+      "status": 200,
+      "bytes": 306171
+    },
+    {
+      "url": "https://www.bdemerson.com/article/strategic-due-diligence",
+      "file": "article/strategic-due-diligence/index.html",
+      "status": 200,
+      "bytes": 306039
+    },
+    {
+      "url": "https://www.bdemerson.com/article/strategy-execution-consulting",
+      "file": "article/strategy-execution-consulting/index.html",
+      "status": 200,
+      "bytes": 304308
+    },
+    {
+      "url": "https://www.bdemerson.com/article/tabletop-exercise-scenarios",
+      "file": "article/tabletop-exercise-scenarios/index.html",
+      "status": 200,
+      "bytes": 308874
+    },
+    {
+      "url": "https://www.bdemerson.com/article/tam-sam-som",
+      "file": "article/tam-sam-som/index.html",
+      "status": 200,
+      "bytes": 306237
+    },
+    {
+      "url": "https://www.bdemerson.com/article/tax-due-diligence-in-ma",
+      "file": "article/tax-due-diligence-in-ma/index.html",
+      "status": 200,
+      "bytes": 301303
+    },
+    {
+      "url": "https://www.bdemerson.com/article/technology-due-diligence-red-flags",
+      "file": "article/technology-due-diligence-red-flags/index.html",
+      "status": 200,
+      "bytes": 307493
+    },
+    {
+      "url": "https://www.bdemerson.com/article/the-best-grc-software-a-practical-evaluation",
+      "file": "article/the-best-grc-software-a-practical-evaluation/index.html",
+      "status": 200,
+      "bytes": 324337
+    },
+    {
+      "url": "https://www.bdemerson.com/article/the-hr-guide-to-employee-data-protection",
+      "file": "article/the-hr-guide-to-employee-data-protection/index.html",
+      "status": 200,
+      "bytes": 330316
+    },
+    {
+      "url": "https://www.bdemerson.com/article/top-saas-security-certifications",
+      "file": "article/top-saas-security-certifications/index.html",
+      "status": 200,
+      "bytes": 340395
+    },
+    {
+      "url": "https://www.bdemerson.com/article/top-technology-consulting-firms",
+      "file": "article/top-technology-consulting-firms/index.html",
+      "status": 200,
+      "bytes": 305470
+    },
+    {
+      "url": "https://www.bdemerson.com/article/total-addressable-market",
+      "file": "article/total-addressable-market/index.html",
+      "status": 200,
+      "bytes": 305749
+    },
+    {
+      "url": "https://www.bdemerson.com/article/transition-services-agreement-benchmark",
+      "file": "article/transition-services-agreement-benchmark/index.html",
+      "status": 200,
+      "bytes": 353454
+    },
+    {
+      "url": "https://www.bdemerson.com/article/transition-services-agreement-guide",
+      "file": "article/transition-services-agreement-guide/index.html",
+      "status": 200,
+      "bytes": 309641
+    },
+    {
+      "url": "https://www.bdemerson.com/article/tsa-exit-planning",
+      "file": "article/tsa-exit-planning/index.html",
+      "status": 200,
+      "bytes": 308638
+    },
+    {
+      "url": "https://www.bdemerson.com/article/types-of-mergers",
+      "file": "article/types-of-mergers/index.html",
+      "status": 200,
+      "bytes": 327157
+    },
+    {
+      "url": "https://www.bdemerson.com/article/unbound-bd-emerson-ai-risk",
+      "file": "article/unbound-bd-emerson-ai-risk/index.html",
+      "status": 200,
+      "bytes": 302637
+    },
+    {
+      "url": "https://www.bdemerson.com/article/understanding-soc-2-compliance-a-comprehensive-guide",
+      "file": "article/understanding-soc-2-compliance-a-comprehensive-guide/index.html",
+      "status": 200,
+      "bytes": 333554
+    },
+    {
+      "url": "https://www.bdemerson.com/article/unity-catalog-migration",
+      "file": "article/unity-catalog-migration/index.html",
+      "status": 200,
+      "bytes": 306172
+    },
+    {
+      "url": "https://www.bdemerson.com/article/vanta-vs-drata",
+      "file": "article/vanta-vs-drata/index.html",
+      "status": 200,
+      "bytes": 306719
+    },
+    {
+      "url": "https://www.bdemerson.com/article/vciso-cost",
+      "file": "article/vciso-cost/index.html",
+      "status": 200,
+      "bytes": 305318
+    },
+    {
+      "url": "https://www.bdemerson.com/article/vcomply-partnership-announcement",
+      "file": "article/vcomply-partnership-announcement/index.html",
+      "status": 200,
+      "bytes": 302422
+    },
+    {
+      "url": "https://www.bdemerson.com/article/virginia-consumer-data-protection-act-cdpa",
+      "file": "article/virginia-consumer-data-protection-act-cdpa/index.html",
+      "status": 200,
+      "bytes": 307747
+    },
+    {
+      "url": "https://www.bdemerson.com/article/vulnerability-assessment-vs-penetration-testing",
+      "file": "article/vulnerability-assessment-vs-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 327245
+    },
+    {
+      "url": "https://www.bdemerson.com/article/vulnerability-management-program",
+      "file": "article/vulnerability-management-program/index.html",
+      "status": 200,
+      "bytes": 303546
+    },
+    {
+      "url": "https://www.bdemerson.com/article/wendt-partners-becomes-first-north-american-hubspot-elite-partner-with-bd-emerson-help",
+      "file": "article/wendt-partners-becomes-first-north-american-hubspot-elite-partner-with-bd-emerson-help/index.html",
+      "status": 200,
+      "bytes": 303570
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-are-intangible-assets",
+      "file": "article/what-are-intangible-assets/index.html",
+      "status": 200,
+      "bytes": 306772
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-are-the-iso-27001-certification-requirements",
+      "file": "article/what-are-the-iso-27001-certification-requirements/index.html",
+      "status": 200,
+      "bytes": 314092
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-does-palantir-do",
+      "file": "article/what-does-palantir-do/index.html",
+      "status": 200,
+      "bytes": 326180
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-happens-in-a-cmmc-audit",
+      "file": "article/what-happens-in-a-cmmc-audit/index.html",
+      "status": 200,
+      "bytes": 305993
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-a-carve-out",
+      "file": "article/what-is-a-carve-out/index.html",
+      "status": 200,
+      "bytes": 318174
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-a-divestiture",
+      "file": "article/what-is-a-divestiture/index.html",
+      "status": 200,
+      "bytes": 313624
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-a-forward-deployed-engineer",
+      "file": "article/what-is-a-forward-deployed-engineer/index.html",
+      "status": 200,
+      "bytes": 310602
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-a-fractional-cto",
+      "file": "article/what-is-a-fractional-cto/index.html",
+      "status": 200,
+      "bytes": 332112
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-a-quality-of-earnings-report",
+      "file": "article/what-is-a-quality-of-earnings-report/index.html",
+      "status": 200,
+      "bytes": 305538
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-a-trust-center",
+      "file": "article/what-is-a-trust-center/index.html",
+      "status": 200,
+      "bytes": 325815
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-a-vendor-risk-management",
+      "file": "article/what-is-a-vendor-risk-management/index.html",
+      "status": 200,
+      "bytes": 323175
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-agentforce",
+      "file": "article/what-is-agentforce/index.html",
+      "status": 200,
+      "bytes": 308311
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-an-ontology",
+      "file": "article/what-is-an-ontology/index.html",
+      "status": 200,
+      "bytes": 302524
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-cmmc",
+      "file": "article/what-is-cmmc/index.html",
+      "status": 200,
+      "bytes": 306237
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-cybersecurity-debt",
+      "file": "article/what-is-cybersecurity-debt/index.html",
+      "status": 200,
+      "bytes": 323251
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-gdpr-compliance",
+      "file": "article/what-is-gdpr-compliance/index.html",
+      "status": 200,
+      "bytes": 315450
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-glba-compliance",
+      "file": "article/what-is-glba-compliance/index.html",
+      "status": 200,
+      "bytes": 317713
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-guidewire",
+      "file": "article/what-is-guidewire/index.html",
+      "status": 200,
+      "bytes": 329565
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-palantir-aip",
+      "file": "article/what-is-palantir-aip/index.html",
+      "status": 200,
+      "bytes": 306395
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-palantir-foundry",
+      "file": "article/what-is-palantir-foundry/index.html",
+      "status": 200,
+      "bytes": 326440
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-purchase-price-allocation",
+      "file": "article/what-is-purchase-price-allocation/index.html",
+      "status": 200,
+      "bytes": 304724
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-red-teaming",
+      "file": "article/what-is-red-teaming/index.html",
+      "status": 200,
+      "bytes": 321757
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-vendor-due-diligence",
+      "file": "article/what-is-vendor-due-diligence/index.html",
+      "status": 200,
+      "bytes": 300494
+    },
+    {
+      "url": "https://www.bdemerson.com/article/what-is-zero-trust-security",
+      "file": "article/what-is-zero-trust-security/index.html",
+      "status": 200,
+      "bytes": 323564
+    },
+    {
+      "url": "https://www.bdemerson.com/article/when-gdpr-requires-a-dpo",
+      "file": "article/when-gdpr-requires-a-dpo/index.html",
+      "status": 200,
+      "bytes": 306584
+    },
+    {
+      "url": "https://www.bdemerson.com/article/when-is-a-dpia-required",
+      "file": "article/when-is-a-dpia-required/index.html",
+      "status": 200,
+      "bytes": 326118
+    },
+    {
+      "url": "https://www.bdemerson.com/article/why-ai-pilots-stall",
+      "file": "article/why-ai-pilots-stall/index.html",
+      "status": 200,
+      "bytes": 304616
+    },
+    {
+      "url": "https://www.bdemerson.com/article/why-every-ciso-should-consider-vanta",
+      "file": "article/why-every-ciso-should-consider-vanta/index.html",
+      "status": 200,
+      "bytes": 307424
+    },
+    {
+      "url": "https://www.bdemerson.com/article/why-is-cyber-security-awareness-training-important",
+      "file": "article/why-is-cyber-security-awareness-training-important/index.html",
+      "status": 200,
+      "bytes": 314701
+    },
+    {
+      "url": "https://www.bdemerson.com/article/why-mergers-and-acquisitions-fail",
+      "file": "article/why-mergers-and-acquisitions-fail/index.html",
+      "status": 200,
+      "bytes": 303168
+    },
+    {
+      "url": "https://www.bdemerson.com/article/why-vanta-is-the-ultimate-solution-for-automating-compliance",
+      "file": "article/why-vanta-is-the-ultimate-solution-for-automating-compliance/index.html",
+      "status": 200,
+      "bytes": 303339
+    },
+    {
+      "url": "https://www.bdemerson.com/article/working-on-iso-27001-its-time-to-add-iso-42001-to-your-strategic-plan",
+      "file": "article/working-on-iso-27001-its-time-to-add-iso-42001-to-your-strategic-plan/index.html",
+      "status": 200,
+      "bytes": 303747
+    },
+    {
+      "url": "https://www.bdemerson.com/blog",
+      "file": "blog/index.html",
+      "status": 200,
+      "bytes": 308062
+    },
+    {
+      "url": "https://www.bdemerson.com/careers",
+      "file": "careers/index.html",
+      "status": 200,
+      "bytes": 283891
+    },
+    {
+      "url": "https://www.bdemerson.com/careers/product-manager",
+      "file": "careers/product-manager/index.html",
+      "status": 200,
+      "bytes": 303577
+    },
+    {
+      "url": "https://www.bdemerson.com/careers/security-engineer",
+      "file": "careers/security-engineer/index.html",
+      "status": 200,
+      "bytes": 300416
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies",
+      "file": "case-studies/index.html",
+      "status": 200,
+      "bytes": 394597
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/auto-finance-ai-research-agent-market-entry",
+      "file": "case-studies/auto-finance-ai-research-agent-market-entry/index.html",
+      "status": 200,
+      "bytes": 308106
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/boxcore",
+      "file": "case-studies/boxcore/index.html",
+      "status": 200,
+      "bytes": 314443
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/civex",
+      "file": "case-studies/civex/index.html",
+      "status": 200,
+      "bytes": 307838
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/consumer-technology-carve-out-acquisition-security",
+      "file": "case-studies/consumer-technology-carve-out-acquisition-security/index.html",
+      "status": 200,
+      "bytes": 308859
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/data-company-carve-out-standalone-isms",
+      "file": "case-studies/data-company-carve-out-standalone-isms/index.html",
+      "status": 200,
+      "bytes": 308982
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/dedupely",
+      "file": "case-studies/dedupely/index.html",
+      "status": 200,
+      "bytes": 306496
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/deepopinion",
+      "file": "case-studies/deepopinion/index.html",
+      "status": 200,
+      "bytes": 309472
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/defense-software-fedramp-20x",
+      "file": "case-studies/defense-software-fedramp-20x/index.html",
+      "status": 200,
+      "bytes": 308364
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/dental-lab-sell-side-penetration-test",
+      "file": "case-studies/dental-lab-sell-side-penetration-test/index.html",
+      "status": 200,
+      "bytes": 309518
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/energy-company-data-platform",
+      "file": "case-studies/energy-company-data-platform/index.html",
+      "status": 200,
+      "bytes": 306539
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/fgi-worldwide",
+      "file": "case-studies/fgi-worldwide/index.html",
+      "status": 200,
+      "bytes": 307965
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/fintech-platform-modernization",
+      "file": "case-studies/fintech-platform-modernization/index.html",
+      "status": 200,
+      "bytes": 306964
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/gardiant",
+      "file": "case-studies/gardiant/index.html",
+      "status": 200,
+      "bytes": 313618
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/give-interactive",
+      "file": "case-studies/give-interactive/index.html",
+      "status": 200,
+      "bytes": 305570
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/gordon-brothers",
+      "file": "case-studies/gordon-brothers/index.html",
+      "status": 200,
+      "bytes": 306723
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/govcon-software-fedramp-moderate-readiness",
+      "file": "case-studies/govcon-software-fedramp-moderate-readiness/index.html",
+      "status": 200,
+      "bytes": 308585
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/healthcare-private-equity-cybersecurity-due-diligence",
+      "file": "case-studies/healthcare-private-equity-cybersecurity-due-diligence/index.html",
+      "status": 200,
+      "bytes": 308432
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/hiredhelpr",
+      "file": "case-studies/hiredhelpr/index.html",
+      "status": 200,
+      "bytes": 311676
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/hospital-system-palantir-foundry",
+      "file": "case-studies/hospital-system-palantir-foundry/index.html",
+      "status": 200,
+      "bytes": 306833
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/incentiv",
+      "file": "case-studies/incentiv/index.html",
+      "status": 200,
+      "bytes": 312181
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/insurance-provider-underwriting-modernization",
+      "file": "case-studies/insurance-provider-underwriting-modernization/index.html",
+      "status": 200,
+      "bytes": 306718
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/intellinum",
+      "file": "case-studies/intellinum/index.html",
+      "status": 200,
+      "bytes": 305560
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/investment-firm-custom-portfolio-software",
+      "file": "case-studies/investment-firm-custom-portfolio-software/index.html",
+      "status": 200,
+      "bytes": 308827
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/life-annuity-insurer-palantir-aip-service-assistant",
+      "file": "case-studies/life-annuity-insurer-palantir-aip-service-assistant/index.html",
+      "status": 200,
+      "bytes": 308579
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/life-insurer-agentic-ai-policy-administration",
+      "file": "case-studies/life-insurer-agentic-ai-policy-administration/index.html",
+      "status": 200,
+      "bytes": 309634
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/lifelenz",
+      "file": "case-studies/lifelenz/index.html",
+      "status": 200,
+      "bytes": 308401
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/lincoln-industries",
+      "file": "case-studies/lincoln-industries/index.html",
+      "status": 200,
+      "bytes": 306207
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/liveschool",
+      "file": "case-studies/liveschool/index.html",
+      "status": 200,
+      "bytes": 310583
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/manufacturer-palantir-foundry-maintenance",
+      "file": "case-studies/manufacturer-palantir-foundry-maintenance/index.html",
+      "status": 200,
+      "bytes": 307877
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/mdhub",
+      "file": "case-studies/mdhub/index.html",
+      "status": 200,
+      "bytes": 310353
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/meridian-ai",
+      "file": "case-studies/meridian-ai/index.html",
+      "status": 200,
+      "bytes": 311149
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/murtha-cullina",
+      "file": "case-studies/murtha-cullina/index.html",
+      "status": 200,
+      "bytes": 309410
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/openevidence",
+      "file": "case-studies/openevidence/index.html",
+      "status": 200,
+      "bytes": 306965
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/reinsurer-palantir-foundry-investment-analytics",
+      "file": "case-studies/reinsurer-palantir-foundry-investment-analytics/index.html",
+      "status": 200,
+      "bytes": 308030
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/rubrik",
+      "file": "case-studies/rubrik/index.html",
+      "status": 200,
+      "bytes": 307363
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/saas-akira-ransomware-incident-response",
+      "file": "case-studies/saas-akira-ransomware-incident-response/index.html",
+      "status": 200,
+      "bytes": 308126
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/savant-ge-lighting",
+      "file": "case-studies/savant-ge-lighting/index.html",
+      "status": 200,
+      "bytes": 309020
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/semiconductor-carve-out-security-program",
+      "file": "case-studies/semiconductor-carve-out-security-program/index.html",
+      "status": 200,
+      "bytes": 309337
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/software-company-device-code-phishing-incident-response",
+      "file": "case-studies/software-company-device-code-phishing-incident-response/index.html",
+      "status": 200,
+      "bytes": 308383
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/spare",
+      "file": "case-studies/spare/index.html",
+      "status": 200,
+      "bytes": 306647
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/supered",
+      "file": "case-studies/supered/index.html",
+      "status": 200,
+      "bytes": 308268
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/tag1",
+      "file": "case-studies/tag1/index.html",
+      "status": 200,
+      "bytes": 309464
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/talentneuron",
+      "file": "case-studies/talentneuron/index.html",
+      "status": 200,
+      "bytes": 306974
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/titan-intake",
+      "file": "case-studies/titan-intake/index.html",
+      "status": 200,
+      "bytes": 311197
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/trss",
+      "file": "case-studies/trss/index.html",
+      "status": 200,
+      "bytes": 308065
+    },
+    {
+      "url": "https://www.bdemerson.com/case-studies/wendt-partners",
+      "file": "case-studies/wendt-partners/index.html",
+      "status": 200,
+      "bytes": 312598
+    },
+    {
+      "url": "https://www.bdemerson.com/contact",
+      "file": "contact/index.html",
+      "status": 200,
+      "bytes": 287312
+    },
+    {
+      "url": "https://www.bdemerson.com/industries",
+      "file": "industries/index.html",
+      "status": 200,
+      "bytes": 315239
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/education",
+      "file": "industries/education/index.html",
+      "status": 200,
+      "bytes": 342048
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/energy",
+      "file": "industries/energy/index.html",
+      "status": 200,
+      "bytes": 344206
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/financial-services",
+      "file": "industries/financial-services/index.html",
+      "status": 200,
+      "bytes": 345421
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/government",
+      "file": "industries/government/index.html",
+      "status": 200,
+      "bytes": 345952
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/healthcare",
+      "file": "industries/healthcare/index.html",
+      "status": 200,
+      "bytes": 342030
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/legal",
+      "file": "industries/legal/index.html",
+      "status": 200,
+      "bytes": 342791
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/manufacturing",
+      "file": "industries/manufacturing/index.html",
+      "status": 200,
+      "bytes": 344661
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/marketing-agencies",
+      "file": "industries/marketing-agencies/index.html",
+      "status": 200,
+      "bytes": 344411
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/retail",
+      "file": "industries/retail/index.html",
+      "status": 200,
+      "bytes": 344223
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/software-development",
+      "file": "industries/software-development/index.html",
+      "status": 200,
+      "bytes": 342096
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/startups",
+      "file": "industries/startups/index.html",
+      "status": 200,
+      "bytes": 343117
+    },
+    {
+      "url": "https://www.bdemerson.com/industries/technology",
+      "file": "industries/technology/index.html",
+      "status": 200,
+      "bytes": 343094
+    },
+    {
+      "url": "https://www.bdemerson.com/privacy-policy",
+      "file": "privacy-policy/index.html",
+      "status": 200,
+      "bytes": 333405
+    },
+    {
+      "url": "https://www.bdemerson.com/service/agentforce-consulting",
+      "file": "service/agentforce-consulting/index.html",
+      "status": 200,
+      "bytes": 375617
+    },
+    {
+      "url": "https://www.bdemerson.com/service/agentic-ai-security",
+      "file": "service/agentic-ai-security/index.html",
+      "status": 200,
+      "bytes": 374359
+    },
+    {
+      "url": "https://www.bdemerson.com/service/ai-governance-consulting",
+      "file": "service/ai-governance-consulting/index.html",
+      "status": 200,
+      "bytes": 375599
+    },
+    {
+      "url": "https://www.bdemerson.com/service/ai-implementation-services",
+      "file": "service/ai-implementation-services/index.html",
+      "status": 200,
+      "bytes": 374185
+    },
+    {
+      "url": "https://www.bdemerson.com/service/ai-integration-services",
+      "file": "service/ai-integration-services/index.html",
+      "status": 200,
+      "bytes": 374732
+    },
+    {
+      "url": "https://www.bdemerson.com/service/ai-penetration-testing",
+      "file": "service/ai-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 372308
+    },
+    {
+      "url": "https://www.bdemerson.com/service/ai-readiness-assessment",
+      "file": "service/ai-readiness-assessment/index.html",
+      "status": 200,
+      "bytes": 373661
+    },
+    {
+      "url": "https://www.bdemerson.com/service/ai-strategy-consulting",
+      "file": "service/ai-strategy-consulting/index.html",
+      "status": 200,
+      "bytes": 374256
+    },
+    {
+      "url": "https://www.bdemerson.com/service/api-penetration-testing",
+      "file": "service/api-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 372338
+    },
+    {
+      "url": "https://www.bdemerson.com/service/application-modernization-services",
+      "file": "service/application-modernization-services/index.html",
+      "status": 200,
+      "bytes": 374641
+    },
+    {
+      "url": "https://www.bdemerson.com/service/audit",
+      "file": "service/audit/index.html",
+      "status": 200,
+      "bytes": 388636
+    },
+    {
+      "url": "https://www.bdemerson.com/service/auditboard-consulting",
+      "file": "service/auditboard-consulting/index.html",
+      "status": 200,
+      "bytes": 370806
+    },
+    {
+      "url": "https://www.bdemerson.com/service/automation-consulting",
+      "file": "service/automation-consulting/index.html",
+      "status": 200,
+      "bytes": 376304
+    },
+    {
+      "url": "https://www.bdemerson.com/service/banking-software-development",
+      "file": "service/banking-software-development/index.html",
+      "status": 200,
+      "bytes": 380352
+    },
+    {
+      "url": "https://www.bdemerson.com/service/build-vs-buy-software",
+      "file": "service/build-vs-buy-software/index.html",
+      "status": 200,
+      "bytes": 414093
+    },
+    {
+      "url": "https://www.bdemerson.com/service/buy-side-ma-advisory",
+      "file": "service/buy-side-ma-advisory/index.html",
+      "status": 200,
+      "bytes": 371276
+    },
+    {
+      "url": "https://www.bdemerson.com/service/carve-out-advisory",
+      "file": "service/carve-out-advisory/index.html",
+      "status": 200,
+      "bytes": 354456
+    },
+    {
+      "url": "https://www.bdemerson.com/service/carve-out-cybersecurity",
+      "file": "service/carve-out-cybersecurity/index.html",
+      "status": 200,
+      "bytes": 393467
+    },
+    {
+      "url": "https://www.bdemerson.com/service/change-management-consulting",
+      "file": "service/change-management-consulting/index.html",
+      "status": 200,
+      "bytes": 384169
+    },
+    {
+      "url": "https://www.bdemerson.com/service/claims-management-software",
+      "file": "service/claims-management-software/index.html",
+      "status": 200,
+      "bytes": 384925
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cloud-migration-services",
+      "file": "service/cloud-migration-services/index.html",
+      "status": 200,
+      "bytes": 370336
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cloud-security",
+      "file": "service/cloud-security/index.html",
+      "status": 200,
+      "bytes": 377349
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cloud-security-assessment",
+      "file": "service/cloud-security-assessment/index.html",
+      "status": 200,
+      "bytes": 368857
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cmmc-consulting",
+      "file": "service/cmmc-consulting/index.html",
+      "status": 200,
+      "bytes": 379003
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cmmc-gap-assessment",
+      "file": "service/cmmc-gap-assessment/index.html",
+      "status": 200,
+      "bytes": 373462
+    },
+    {
+      "url": "https://www.bdemerson.com/service/commercial-due-diligence",
+      "file": "service/commercial-due-diligence/index.html",
+      "status": 200,
+      "bytes": 391895
+    },
+    {
+      "url": "https://www.bdemerson.com/service/consent-management",
+      "file": "service/consent-management/index.html",
+      "status": 200,
+      "bytes": 371898
+    },
+    {
+      "url": "https://www.bdemerson.com/service/continuous-penetration-testing",
+      "file": "service/continuous-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 371996
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cultural-integration-consulting",
+      "file": "service/cultural-integration-consulting/index.html",
+      "status": 200,
+      "bytes": 386860
+    },
+    {
+      "url": "https://www.bdemerson.com/service/custom-software-development",
+      "file": "service/custom-software-development/index.html",
+      "status": 200,
+      "bytes": 388247
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cyber-due-diligence",
+      "file": "service/cyber-due-diligence/index.html",
+      "status": 200,
+      "bytes": 400022
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cyber-incident-response-services",
+      "file": "service/cyber-incident-response-services/index.html",
+      "status": 200,
+      "bytes": 390075
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cyber-resilience-act-compliance",
+      "file": "service/cyber-resilience-act-compliance/index.html",
+      "status": 200,
+      "bytes": 391944
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cyber-security-management-services",
+      "file": "service/cyber-security-management-services/index.html",
+      "status": 200,
+      "bytes": 372910
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cyber-security-transformation-services",
+      "file": "service/cyber-security-transformation-services/index.html",
+      "status": 200,
+      "bytes": 372664
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cybersecurity-compliance",
+      "file": "service/cybersecurity-compliance/index.html",
+      "status": 200,
+      "bytes": 375203
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cybersecurity-consulting",
+      "file": "service/cybersecurity-consulting/index.html",
+      "status": 200,
+      "bytes": 388554
+    },
+    {
+      "url": "https://www.bdemerson.com/service/cybersecurity-for-small-businesses",
+      "file": "service/cybersecurity-for-small-businesses/index.html",
+      "status": 200,
+      "bytes": 371768
+    },
+    {
+      "url": "https://www.bdemerson.com/service/data-engineering-consulting",
+      "file": "service/data-engineering-consulting/index.html",
+      "status": 200,
+      "bytes": 374631
+    },
+    {
+      "url": "https://www.bdemerson.com/service/data-privacy-consulting",
+      "file": "service/data-privacy-consulting/index.html",
+      "status": 200,
+      "bytes": 376181
+    },
+    {
+      "url": "https://www.bdemerson.com/service/data-strategy-consulting",
+      "file": "service/data-strategy-consulting/index.html",
+      "status": 200,
+      "bytes": 369085
+    },
+    {
+      "url": "https://www.bdemerson.com/service/databricks-consulting",
+      "file": "service/databricks-consulting/index.html",
+      "status": 200,
+      "bytes": 368918
+    },
+    {
+      "url": "https://www.bdemerson.com/service/devsecops-consulting",
+      "file": "service/devsecops-consulting/index.html",
+      "status": 200,
+      "bytes": 370753
+    },
+    {
+      "url": "https://www.bdemerson.com/service/digital-forensics-services",
+      "file": "service/digital-forensics-services/index.html",
+      "status": 200,
+      "bytes": 392252
+    },
+    {
+      "url": "https://www.bdemerson.com/service/digital-transformation",
+      "file": "service/digital-transformation/index.html",
+      "status": 200,
+      "bytes": 375369
+    },
+    {
+      "url": "https://www.bdemerson.com/service/divestiture-consulting",
+      "file": "service/divestiture-consulting/index.html",
+      "status": 200,
+      "bytes": 392957
+    },
+    {
+      "url": "https://www.bdemerson.com/service/dpo-as-a-service",
+      "file": "service/dpo-as-a-service/index.html",
+      "status": 200,
+      "bytes": 373124
+    },
+    {
+      "url": "https://www.bdemerson.com/service/drata-implementation-services",
+      "file": "service/drata-implementation-services/index.html",
+      "status": 200,
+      "bytes": 370966
+    },
+    {
+      "url": "https://www.bdemerson.com/service/enterprise-ai-consulting",
+      "file": "service/enterprise-ai-consulting/index.html",
+      "status": 200,
+      "bytes": 369565
+    },
+    {
+      "url": "https://www.bdemerson.com/service/espr-compliance",
+      "file": "service/espr-compliance/index.html",
+      "status": 200,
+      "bytes": 381182
+    },
+    {
+      "url": "https://www.bdemerson.com/service/eu-ai-act-consulting",
+      "file": "service/eu-ai-act-consulting/index.html",
+      "status": 200,
+      "bytes": 370811
+    },
+    {
+      "url": "https://www.bdemerson.com/service/executive-consulting",
+      "file": "service/executive-consulting/index.html",
+      "status": 200,
+      "bytes": 373258
+    },
+    {
+      "url": "https://www.bdemerson.com/service/fedramp-20x-readiness",
+      "file": "service/fedramp-20x-readiness/index.html",
+      "status": 200,
+      "bytes": 374072
+    },
+    {
+      "url": "https://www.bdemerson.com/service/fedramp-compliance-consulting",
+      "file": "service/fedramp-compliance-consulting/index.html",
+      "status": 200,
+      "bytes": 379449
+    },
+    {
+      "url": "https://www.bdemerson.com/service/fedramp-penetration-testing",
+      "file": "service/fedramp-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 372621
+    },
+    {
+      "url": "https://www.bdemerson.com/service/financial-due-diligence",
+      "file": "service/financial-due-diligence/index.html",
+      "status": 200,
+      "bytes": 370451
+    },
+    {
+      "url": "https://www.bdemerson.com/service/fintech-software-development",
+      "file": "service/fintech-software-development/index.html",
+      "status": 200,
+      "bytes": 387812
+    },
+    {
+      "url": "https://www.bdemerson.com/service/fractional-ciso",
+      "file": "service/fractional-ciso/index.html",
+      "status": 200,
+      "bytes": 372871
+    },
+    {
+      "url": "https://www.bdemerson.com/service/fractional-cto",
+      "file": "service/fractional-cto/index.html",
+      "status": 200,
+      "bytes": 383395
+    },
+    {
+      "url": "https://www.bdemerson.com/service/gdpr-audit",
+      "file": "service/gdpr-audit/index.html",
+      "status": 200,
+      "bytes": 380284
+    },
+    {
+      "url": "https://www.bdemerson.com/service/gdpr-compliance-consulting-services",
+      "file": "service/gdpr-compliance-consulting-services/index.html",
+      "status": 200,
+      "bytes": 378836
+    },
+    {
+      "url": "https://www.bdemerson.com/service/generative-ai-consulting",
+      "file": "service/generative-ai-consulting/index.html",
+      "status": 200,
+      "bytes": 375315
+    },
+    {
+      "url": "https://www.bdemerson.com/service/glba-compliance-consulting",
+      "file": "service/glba-compliance-consulting/index.html",
+      "status": 200,
+      "bytes": 371108
+    },
+    {
+      "url": "https://www.bdemerson.com/service/glba-internal-audit",
+      "file": "service/glba-internal-audit/index.html",
+      "status": 200,
+      "bytes": 383885
+    },
+    {
+      "url": "https://www.bdemerson.com/service/grc-consulting",
+      "file": "service/grc-consulting/index.html",
+      "status": 200,
+      "bytes": 386068
+    },
+    {
+      "url": "https://www.bdemerson.com/service/guidewire-replacement",
+      "file": "service/guidewire-replacement/index.html",
+      "status": 200,
+      "bytes": 402529
+    },
+    {
+      "url": "https://www.bdemerson.com/service/healthcare-ai-governance",
+      "file": "service/healthcare-ai-governance/index.html",
+      "status": 200,
+      "bytes": 390967
+    },
+    {
+      "url": "https://www.bdemerson.com/service/healthcare-growth-strategy",
+      "file": "service/healthcare-growth-strategy/index.html",
+      "status": 200,
+      "bytes": 373327
+    },
+    {
+      "url": "https://www.bdemerson.com/service/hipaa-audit",
+      "file": "service/hipaa-audit/index.html",
+      "status": 200,
+      "bytes": 378978
+    },
+    {
+      "url": "https://www.bdemerson.com/service/hipaa-compliance",
+      "file": "service/hipaa-compliance/index.html",
+      "status": 200,
+      "bytes": 385095
+    },
+    {
+      "url": "https://www.bdemerson.com/service/hitrust-consulting",
+      "file": "service/hitrust-consulting/index.html",
+      "status": 200,
+      "bytes": 386967
+    },
+    {
+      "url": "https://www.bdemerson.com/service/incident-response-retainer",
+      "file": "service/incident-response-retainer/index.html",
+      "status": 200,
+      "bytes": 368894
+    },
+    {
+      "url": "https://www.bdemerson.com/service/insurance-software-development",
+      "file": "service/insurance-software-development/index.html",
+      "status": 200,
+      "bytes": 387924
+    },
+    {
+      "url": "https://www.bdemerson.com/service/intangible-asset-valuation",
+      "file": "service/intangible-asset-valuation/index.html",
+      "status": 200,
+      "bytes": 376889
+    },
+    {
+      "url": "https://www.bdemerson.com/service/internal-audit-services",
+      "file": "service/internal-audit-services/index.html",
+      "status": 200,
+      "bytes": 383477
+    },
+    {
+      "url": "https://www.bdemerson.com/service/investor-relations-consulting",
+      "file": "service/investor-relations-consulting/index.html",
+      "status": 200,
+      "bytes": 369308
+    },
+    {
+      "url": "https://www.bdemerson.com/service/iso-27001-compliance-consulting-services",
+      "file": "service/iso-27001-compliance-consulting-services/index.html",
+      "status": 200,
+      "bytes": 383842
+    },
+    {
+      "url": "https://www.bdemerson.com/service/iso-27001-internal-audit",
+      "file": "service/iso-27001-internal-audit/index.html",
+      "status": 200,
+      "bytes": 375764
+    },
+    {
+      "url": "https://www.bdemerson.com/service/iso-42001-consulting",
+      "file": "service/iso-42001-consulting/index.html",
+      "status": 200,
+      "bytes": 368019
+    },
+    {
+      "url": "https://www.bdemerson.com/service/iso-42001-internal-audit",
+      "file": "service/iso-42001-internal-audit/index.html",
+      "status": 200,
+      "bytes": 382960
+    },
+    {
+      "url": "https://www.bdemerson.com/service/it-carve-out-services",
+      "file": "service/it-carve-out-services/index.html",
+      "status": 200,
+      "bytes": 394464
+    },
+    {
+      "url": "https://www.bdemerson.com/service/it-cost-optimization",
+      "file": "service/it-cost-optimization/index.html",
+      "status": 200,
+      "bytes": 389285
+    },
+    {
+      "url": "https://www.bdemerson.com/service/itgc-audit",
+      "file": "service/itgc-audit/index.html",
+      "status": 200,
+      "bytes": 384683
+    },
+    {
+      "url": "https://www.bdemerson.com/service/m-a-change-management",
+      "file": "service/m-a-change-management/index.html",
+      "status": 200,
+      "bytes": 384365
+    },
+    {
+      "url": "https://www.bdemerson.com/service/m-a-clean-room",
+      "file": "service/m-a-clean-room/index.html",
+      "status": 200,
+      "bytes": 389081
+    },
+    {
+      "url": "https://www.bdemerson.com/service/m-a-due-diligence",
+      "file": "service/m-a-due-diligence/index.html",
+      "status": 200,
+      "bytes": 390729
+    },
+    {
+      "url": "https://www.bdemerson.com/service/m-a-services-by-bd-emerson",
+      "file": "service/m-a-services-by-bd-emerson/index.html",
+      "status": 200,
+      "bytes": 384158
+    },
+    {
+      "url": "https://www.bdemerson.com/service/ma-tax-due-diligence",
+      "file": "service/ma-tax-due-diligence/index.html",
+      "status": 200,
+      "bytes": 364517
+    },
+    {
+      "url": "https://www.bdemerson.com/service/managed-it-support-services",
+      "file": "service/managed-it-support-services/index.html",
+      "status": 200,
+      "bytes": 377489
+    },
+    {
+      "url": "https://www.bdemerson.com/service/mergers-acquisitions-advisory",
+      "file": "service/mergers-acquisitions-advisory/index.html",
+      "status": 200,
+      "bytes": 363360
+    },
+    {
+      "url": "https://www.bdemerson.com/service/microsoft-365-security-assessment",
+      "file": "service/microsoft-365-security-assessment/index.html",
+      "status": 200,
+      "bytes": 370812
+    },
+    {
+      "url": "https://www.bdemerson.com/service/microsoft-copilot-consulting",
+      "file": "service/microsoft-copilot-consulting/index.html",
+      "status": 200,
+      "bytes": 375232
+    },
+    {
+      "url": "https://www.bdemerson.com/service/network-penetration-testing",
+      "file": "service/network-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 372036
+    },
+    {
+      "url": "https://www.bdemerson.com/service/network-security-monitoring",
+      "file": "service/network-security-monitoring/index.html",
+      "status": 200,
+      "bytes": 367499
+    },
+    {
+      "url": "https://www.bdemerson.com/service/nist-compliance-consulting",
+      "file": "service/nist-compliance-consulting/index.html",
+      "status": 200,
+      "bytes": 372823
+    },
+    {
+      "url": "https://www.bdemerson.com/service/operational-due-diligence",
+      "file": "service/operational-due-diligence/index.html",
+      "status": 200,
+      "bytes": 390653
+    },
+    {
+      "url": "https://www.bdemerson.com/service/palantir-aip-forward-deployed-engineering",
+      "file": "service/palantir-aip-forward-deployed-engineering/index.html",
+      "status": 200,
+      "bytes": 377944
+    },
+    {
+      "url": "https://www.bdemerson.com/service/palantir-consulting",
+      "file": "service/palantir-consulting/index.html",
+      "status": 200,
+      "bytes": 396384
+    },
+    {
+      "url": "https://www.bdemerson.com/service/palantir-foundry-implementation",
+      "file": "service/palantir-foundry-implementation/index.html",
+      "status": 200,
+      "bytes": 385359
+    },
+    {
+      "url": "https://www.bdemerson.com/service/pci-dss-compliance-consulting",
+      "file": "service/pci-dss-compliance-consulting/index.html",
+      "status": 200,
+      "bytes": 386639
+    },
+    {
+      "url": "https://www.bdemerson.com/service/penetration-testing-services",
+      "file": "service/penetration-testing-services/index.html",
+      "status": 200,
+      "bytes": 374722
+    },
+    {
+      "url": "https://www.bdemerson.com/service/policy-administration-system",
+      "file": "service/policy-administration-system/index.html",
+      "status": 200,
+      "bytes": 383840
+    },
+    {
+      "url": "https://www.bdemerson.com/service/post-merger-integration",
+      "file": "service/post-merger-integration/index.html",
+      "status": 200,
+      "bytes": 393082
+    },
+    {
+      "url": "https://www.bdemerson.com/service/private-equity-consulting",
+      "file": "service/private-equity-consulting/index.html",
+      "status": 200,
+      "bytes": 369599
+    },
+    {
+      "url": "https://www.bdemerson.com/service/private-equity-technology-consulting",
+      "file": "service/private-equity-technology-consulting/index.html",
+      "status": 200,
+      "bytes": 369238
+    },
+    {
+      "url": "https://www.bdemerson.com/service/private-equity-value-creation",
+      "file": "service/private-equity-value-creation/index.html",
+      "status": 200,
+      "bytes": 387550
+    },
+    {
+      "url": "https://www.bdemerson.com/service/private-llm-hosting",
+      "file": "service/private-llm-hosting/index.html",
+      "status": 200,
+      "bytes": 369358
+    },
+    {
+      "url": "https://www.bdemerson.com/service/quality-of-earnings",
+      "file": "service/quality-of-earnings/index.html",
+      "status": 200,
+      "bytes": 388258
+    },
+    {
+      "url": "https://www.bdemerson.com/service/real-time-security-monitoring",
+      "file": "service/real-time-security-monitoring/index.html",
+      "status": 200,
+      "bytes": 369795
+    },
+    {
+      "url": "https://www.bdemerson.com/service/red-teaming-offensive-security",
+      "file": "service/red-teaming-offensive-security/index.html",
+      "status": 200,
+      "bytes": 372324
+    },
+    {
+      "url": "https://www.bdemerson.com/service/regulatory-audit",
+      "file": "service/regulatory-audit/index.html",
+      "status": 200,
+      "bytes": 383714
+    },
+    {
+      "url": "https://www.bdemerson.com/service/salesforce-implementation-services",
+      "file": "service/salesforce-implementation-services/index.html",
+      "status": 200,
+      "bytes": 370378
+    },
+    {
+      "url": "https://www.bdemerson.com/service/sell-side-ma-advisory",
+      "file": "service/sell-side-ma-advisory/index.html",
+      "status": 200,
+      "bytes": 369917
+    },
+    {
+      "url": "https://www.bdemerson.com/service/servicenow-grc-implementation",
+      "file": "service/servicenow-grc-implementation/index.html",
+      "status": 200,
+      "bytes": 374986
+    },
+    {
+      "url": "https://www.bdemerson.com/service/snowflake-consulting",
+      "file": "service/snowflake-consulting/index.html",
+      "status": 200,
+      "bytes": 379394
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-1-audit",
+      "file": "service/soc-1-audit/index.html",
+      "status": 200,
+      "bytes": 383528
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-2",
+      "file": "service/soc-2/index.html",
+      "status": 200,
+      "bytes": 385477
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-2-compliance-cohort-program",
+      "file": "service/soc-2-compliance-cohort-program/index.html",
+      "status": 200,
+      "bytes": 372960
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-2-for-startups",
+      "file": "service/soc-2-for-startups/index.html",
+      "status": 200,
+      "bytes": 386250
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-2-type-1-audit",
+      "file": "service/soc-2-type-1-audit/index.html",
+      "status": 200,
+      "bytes": 374592
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-2-type-2-audit",
+      "file": "service/soc-2-type-2-audit/index.html",
+      "status": 200,
+      "bytes": 369265
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-as-a-service",
+      "file": "service/soc-as-a-service/index.html",
+      "status": 200,
+      "bytes": 370926
+    },
+    {
+      "url": "https://www.bdemerson.com/service/soc-audit",
+      "file": "service/soc-audit/index.html",
+      "status": 200,
+      "bytes": 384710
+    },
+    {
+      "url": "https://www.bdemerson.com/service/software-due-diligence",
+      "file": "service/software-due-diligence/index.html",
+      "status": 200,
+      "bytes": 374149
+    },
+    {
+      "url": "https://www.bdemerson.com/service/sox-compliance-consulting",
+      "file": "service/sox-compliance-consulting/index.html",
+      "status": 200,
+      "bytes": 386470
+    },
+    {
+      "url": "https://www.bdemerson.com/service/system-integration-services",
+      "file": "service/system-integration-services/index.html",
+      "status": 200,
+      "bytes": 374871
+    },
+    {
+      "url": "https://www.bdemerson.com/service/tabletop-exercises",
+      "file": "service/tabletop-exercises/index.html",
+      "status": 200,
+      "bytes": 368976
+    },
+    {
+      "url": "https://www.bdemerson.com/service/technology-consulting",
+      "file": "service/technology-consulting/index.html",
+      "status": 200,
+      "bytes": 385265
+    },
+    {
+      "url": "https://www.bdemerson.com/service/technology-due-diligence-consulting",
+      "file": "service/technology-due-diligence-consulting/index.html",
+      "status": 200,
+      "bytes": 384522
+    },
+    {
+      "url": "https://www.bdemerson.com/service/third-party-risk-management",
+      "file": "service/third-party-risk-management/index.html",
+      "status": 200,
+      "bytes": 370110
+    },
+    {
+      "url": "https://www.bdemerson.com/service/transaction-advisory",
+      "file": "service/transaction-advisory/index.html",
+      "status": 200,
+      "bytes": 382046
+    },
+    {
+      "url": "https://www.bdemerson.com/service/transaction-valuation-ppa",
+      "file": "service/transaction-valuation-ppa/index.html",
+      "status": 200,
+      "bytes": 373927
+    },
+    {
+      "url": "https://www.bdemerson.com/service/transition-services-agreement-advisory",
+      "file": "service/transition-services-agreement-advisory/index.html",
+      "status": 200,
+      "bytes": 388449
+    },
+    {
+      "url": "https://www.bdemerson.com/service/vanta-implementation-services",
+      "file": "service/vanta-implementation-services/index.html",
+      "status": 200,
+      "bytes": 372621
+    },
+    {
+      "url": "https://www.bdemerson.com/service/vcio-services",
+      "file": "service/vcio-services/index.html",
+      "status": 200,
+      "bytes": 387180
+    },
+    {
+      "url": "https://www.bdemerson.com/service/virtual-ciso",
+      "file": "service/virtual-ciso/index.html",
+      "status": 200,
+      "bytes": 378693
+    },
+    {
+      "url": "https://www.bdemerson.com/service/virtual-cto-services",
+      "file": "service/virtual-cto-services/index.html",
+      "status": 200,
+      "bytes": 378492
+    },
+    {
+      "url": "https://www.bdemerson.com/service/virtual-data-protection-officer",
+      "file": "service/virtual-data-protection-officer/index.html",
+      "status": 200,
+      "bytes": 373349
+    },
+    {
+      "url": "https://www.bdemerson.com/service/vulnerability-management",
+      "file": "service/vulnerability-management/index.html",
+      "status": 200,
+      "bytes": 372862
+    },
+    {
+      "url": "https://www.bdemerson.com/service/web-application-penetration-testing",
+      "file": "service/web-application-penetration-testing/index.html",
+      "status": 200,
+      "bytes": 381494
+    },
+    {
+      "url": "https://www.bdemerson.com/services",
+      "file": "services/index.html",
+      "status": 200,
+      "bytes": 334973
+    },
+    {
+      "url": "https://www.bdemerson.com/staff",
+      "file": "staff/index.html",
+      "status": 200,
+      "bytes": 302511
+    },
+    {
+      "url": "https://www.bdemerson.com/team/alan-rotenberg",
+      "file": "team/alan-rotenberg/index.html",
+      "status": 200,
+      "bytes": 291604
+    },
+    {
+      "url": "https://www.bdemerson.com/team/alexandre-possari",
+      "file": "team/alexandre-possari/index.html",
+      "status": 200,
+      "bytes": 287816
+    },
+    {
+      "url": "https://www.bdemerson.com/team/andrew-wilcox",
+      "file": "team/andrew-wilcox/index.html",
+      "status": 200,
+      "bytes": 291171
+    },
+    {
+      "url": "https://www.bdemerson.com/team/bill-moss",
+      "file": "team/bill-moss/index.html",
+      "status": 200,
+      "bytes": 291101
+    },
+    {
+      "url": "https://www.bdemerson.com/team/brandon-kimes",
+      "file": "team/brandon-kimes/index.html",
+      "status": 200,
+      "bytes": 287234
+    },
+    {
+      "url": "https://www.bdemerson.com/team/caleb-carbonneau",
+      "file": "team/caleb-carbonneau/index.html",
+      "status": 200,
+      "bytes": 287048
+    },
+    {
+      "url": "https://www.bdemerson.com/team/cheryl-nolan-moody",
+      "file": "team/cheryl-nolan-moody/index.html",
+      "status": 200,
+      "bytes": 291507
+    },
+    {
+      "url": "https://www.bdemerson.com/team/chris-plaue",
+      "file": "team/chris-plaue/index.html",
+      "status": 200,
+      "bytes": 287162
+    },
+    {
+      "url": "https://www.bdemerson.com/team/danielle-mason",
+      "file": "team/danielle-mason/index.html",
+      "status": 200,
+      "bytes": 288314
+    },
+    {
+      "url": "https://www.bdemerson.com/team/dr-noni-hlazo",
+      "file": "team/dr-noni-hlazo/index.html",
+      "status": 200,
+      "bytes": 294851
+    },
+    {
+      "url": "https://www.bdemerson.com/team/drew-danner",
+      "file": "team/drew-danner/index.html",
+      "status": 200,
+      "bytes": 291991
+    },
+    {
+      "url": "https://www.bdemerson.com/team/erick-gomez",
+      "file": "team/erick-gomez/index.html",
+      "status": 200,
+      "bytes": 291017
+    },
+    {
+      "url": "https://www.bdemerson.com/team/goeun-son",
+      "file": "team/goeun-son/index.html",
+      "status": 200,
+      "bytes": 287156
+    },
+    {
+      "url": "https://www.bdemerson.com/team/hailey-ruff",
+      "file": "team/hailey-ruff/index.html",
+      "status": 200,
+      "bytes": 287146
+    },
+    {
+      "url": "https://www.bdemerson.com/team/ishan-desai",
+      "file": "team/ishan-desai/index.html",
+      "status": 200,
+      "bytes": 287238
+    },
+    {
+      "url": "https://www.bdemerson.com/team/jaden-wallach",
+      "file": "team/jaden-wallach/index.html",
+      "status": 200,
+      "bytes": 290630
+    },
+    {
+      "url": "https://www.bdemerson.com/team/jennifer-papillo",
+      "file": "team/jennifer-papillo/index.html",
+      "status": 200,
+      "bytes": 290864
+    },
+    {
+      "url": "https://www.bdemerson.com/team/john-kincaide",
+      "file": "team/john-kincaide/index.html",
+      "status": 200,
+      "bytes": 290435
+    },
+    {
+      "url": "https://www.bdemerson.com/team/jose-amaro",
+      "file": "team/jose-amaro/index.html",
+      "status": 200,
+      "bytes": 287487
+    },
+    {
+      "url": "https://www.bdemerson.com/team/jose-gonzalez-jr",
+      "file": "team/jose-gonzalez-jr/index.html",
+      "status": 200,
+      "bytes": 291322
+    },
+    {
+      "url": "https://www.bdemerson.com/team/julie-c-chatman",
+      "file": "team/julie-c-chatman/index.html",
+      "status": 200,
+      "bytes": 288569
+    },
+    {
+      "url": "https://www.bdemerson.com/team/leslie-sakal",
+      "file": "team/leslie-sakal/index.html",
+      "status": 200,
+      "bytes": 288254
+    },
+    {
+      "url": "https://www.bdemerson.com/team/liam-obrien",
+      "file": "team/liam-obrien/index.html",
+      "status": 200,
+      "bytes": 290610
+    },
+    {
+      "url": "https://www.bdemerson.com/team/lisa-bischoff",
+      "file": "team/lisa-bischoff/index.html",
+      "status": 200,
+      "bytes": 288841
+    },
+    {
+      "url": "https://www.bdemerson.com/team/marion-dodge",
+      "file": "team/marion-dodge/index.html",
+      "status": 200,
+      "bytes": 288343
+    },
+    {
+      "url": "https://www.bdemerson.com/team/mark-rathgeber",
+      "file": "team/mark-rathgeber/index.html",
+      "status": 200,
+      "bytes": 287206
+    },
+    {
+      "url": "https://www.bdemerson.com/team/matheus-santos",
+      "file": "team/matheus-santos/index.html",
+      "status": 200,
+      "bytes": 288379
+    },
+    {
+      "url": "https://www.bdemerson.com/team/nick-rybak",
+      "file": "team/nick-rybak/index.html",
+      "status": 200,
+      "bytes": 288355
+    },
+    {
+      "url": "https://www.bdemerson.com/team/nicole-lapierre",
+      "file": "team/nicole-lapierre/index.html",
+      "status": 200,
+      "bytes": 291504
+    },
+    {
+      "url": "https://www.bdemerson.com/team/nneoma-iheonun",
+      "file": "team/nneoma-iheonun/index.html",
+      "status": 200,
+      "bytes": 287397
+    },
+    {
+      "url": "https://www.bdemerson.com/team/oliver-newman",
+      "file": "team/oliver-newman/index.html",
+      "status": 200,
+      "bytes": 290606
+    },
+    {
+      "url": "https://www.bdemerson.com/team/raj-sahas",
+      "file": "team/raj-sahas/index.html",
+      "status": 200,
+      "bytes": 293765
+    },
+    {
+      "url": "https://www.bdemerson.com/team/ryan-burkovich",
+      "file": "team/ryan-burkovich/index.html",
+      "status": 200,
+      "bytes": 287290
+    },
+    {
+      "url": "https://www.bdemerson.com/team/sai-bhemavarapu",
+      "file": "team/sai-bhemavarapu/index.html",
+      "status": 200,
+      "bytes": 287150
+    },
+    {
+      "url": "https://www.bdemerson.com/team/saskia-hoffmann",
+      "file": "team/saskia-hoffmann/index.html",
+      "status": 200,
+      "bytes": 297792
+    },
+    {
+      "url": "https://www.bdemerson.com/team/tim-marley",
+      "file": "team/tim-marley/index.html",
+      "status": 200,
+      "bytes": 287199
+    },
+    {
+      "url": "https://www.bdemerson.com/team/traviss-cherry",
+      "file": "team/traviss-cherry/index.html",
+      "status": 200,
+      "bytes": 290990
+    },
+    {
+      "url": "https://www.bdemerson.com/terms-of-service",
+      "file": "terms-of-service/index.html",
+      "status": 200,
+      "bytes": 325780
+    }
+  ]
+}

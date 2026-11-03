@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1046" viewBox="0 -73 1600 1046" font-family="Manrope, Arial, sans-serif">
+  <defs><linearGradient id="giec62443" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#030712"/><stop offset="55%" stop-color="#0a1830"/><stop offset="100%" stop-color="#0d2a5e"/></linearGradient></defs>
+  <rect x="0" y="-73" width="1600" height="1046" fill="url(#giec62443)"/>
+  <g opacity="1">
+    <text x="880" y="234.5" font-size="18" font-weight="700" fill="#2E86FF" letter-spacing="2">WHO DOES WHAT IN 62443</text>
+    <rect x="880" y="260.5" width="620" height="101" rx="14" fill="#0F2147" stroke="#1E4A8F" stroke-width="2"/>
+    <text x="910" y="300.5" font-size="24" font-weight="700" fill="#FFFFFF">Product supplier</text>
+    <text x="910" y="332.5" font-size="19" fill="#CBD5E1">Develops under 4-1, builds components to 4-2</text>
+    <line x1="1190.0" y1="369.5" x2="1190.0" y2="413.5" stroke="#2E86FF" stroke-width="4"/>
+    <path d="M 1190.0 423.5 l -10 -14 l 20 0 z" fill="#2E86FF" stroke="#2E86FF" stroke-width="1"/>
+    <text x="1208.0" y="403.5" font-size="18" font-weight="600" fill="#93B4E8">Components and systems</text>
+    <rect x="880" y="431.5" width="620" height="101" rx="14" fill="#0F2147" stroke="#1E4A8F" stroke-width="2"/>
+    <text x="910" y="471.5" font-size="24" font-weight="700" fill="#FFFFFF">Integration service provider</text>
+    <text x="910" y="503.5" font-size="19" fill="#CBD5E1">Delivers the system to 3-3 under 2-4 terms</text>
+    <line x1="1190.0" y1="540.5" x2="1190.0" y2="584.5" stroke="#2E86FF" stroke-width="4"/>
+    <path d="M 1190.0 594.5 l -10 -14 l 20 0 z" fill="#2E86FF" stroke="#2E86FF" stroke-width="1"/>
+    <text x="1208.0" y="574.5" font-size="18" font-weight="600" fill="#93B4E8">Automation solution</text>
+    <rect x="880" y="602.5" width="620" height="101" rx="14" fill="#1266DF" stroke="#2E86FF" stroke-width="2"/>
+    <text x="910" y="642.5" font-size="24" font-weight="700" fill="#FFFFFF">Asset owner</text>
+    <text x="910" y="674.5" font-size="19" fill="#DBEAFE">Sets zone targets with 3-2, runs the 2-1 program</text>
+  </g>
+  <rect x="210" y="286" width="88" height="10" fill="#1266DF"/>
+  <text x="210" y="380" font-family="'Degular Display', 'Trebuchet MS', Arial, sans-serif" font-size="58" font-weight="600" fill="#FFFFFF">IEC 62443</text>
+  <text x="210" y="470" font-size="30" fill="#CBD5E1">Parts, security levels, zones,</text>
+  <text x="210" y="512" font-size="30" fill="#CBD5E1">certification, and the EU CRA.</text>
+  <text x="210" y="600" font-size="19" font-weight="700" fill="#1266DF" letter-spacing="3">AK WEB | CYBERSECURITY</text>
+</svg>

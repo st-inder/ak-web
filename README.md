@@ -1,13 +1,12 @@
-# Kota Studio site
+# AK Web Agency
 
-Front-end recreation of the public [Kota Studio](https://madebykota.com/) marketing site: loader, hero, showreel, services, testimonials, template slider, FAQ, store, and inquiry forms.
+The public site is the animated four-page AK Web Agency site.
 
-Artwork is drawn in CSS. This is not the official studio site and it does not take payment. Sending a form opens a mailto to hello@madebykota.com.
+- Home: `index.html`
+- About: `about/`
+- Contact: `contact/`
+- Insight: `article/cloud-cost-optimization/`
 
-## Run
+`about.html` and `contact.html` redirect into those folders. Shared images and the logo live in `assets/`.
 
-```bash
-python3 -m http.server 4173
-```
-
-Open http://localhost:4173
+`reference/bdemerson/` is the local HTML archive used to match layout and motion. It is not part of the public site.
